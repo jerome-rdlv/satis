@@ -1,8 +1,9 @@
 image: alpine:latest
 
+services:
+- docker:dind
+
 pages:
-  services:
-  - docker:dind
   stage: deploy
   script:
   - echo 'Nothing to do...'
