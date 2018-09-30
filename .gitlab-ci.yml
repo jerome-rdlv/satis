@@ -1,8 +1,5 @@
 image: alpine:latest
 
-services:
-- docker:dind
-
 pages:
   stage: deploy
   script:
