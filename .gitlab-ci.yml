@@ -1,7 +1,7 @@
 image: composer/satis
 pages:
   script:
-  - bin/satis build satis.json public
+  - /satis/bin/satis build satis.json public
   artifacts:
     paths:
     - public
