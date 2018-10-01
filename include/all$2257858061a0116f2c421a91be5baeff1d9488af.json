@@ -328,12 +328,12 @@
                 "source": {
                     "type": "git",
                     "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/cpt-parent.git",
-                    "reference": "52f233e55b255f337a17ce9595f765a7d132514a"
+                    "reference": "83cb6d384d5ef9d5d85814383cf4a830ac2832d5"
                 },
                 "require": {
                     "php": ">=5.4"
                 },
-                "time": "2018-10-01T09:21:12+00:00",
+                "time": "2018-10-01T11:08:22+00:00",
                 "type": "wordpress-muplugin",
                 "license": [
                     "private"
