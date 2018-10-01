@@ -1,9 +1,15 @@
 image: composer/satis
+before_script:
+- eval $(ssh-agent -s)
+- echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+- mkdir -p ~/.ssh
+- chmod 700 ~/.ssh
 pages:
-  script:
-  - /satis/bin/satis build satis.json public
-  artifacts:
-    paths:
-    - public
-  only:
-  - master
+    stage: build
+    script:
+    - /satis/bin/satis build satis.json public
+    artifacts:
+        paths:
+        - public
+    only:
+    - master
