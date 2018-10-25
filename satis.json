@@ -16,6 +16,7 @@
         "social-network": "*",
         "disable-comments": "*",
         "allow-svg": "*",
-        "cpt-parent": "*"
+        "cpt-parent": "*",
+        "cf7-tac-recaptcha": "*"
     }
 }
