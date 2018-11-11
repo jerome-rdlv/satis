@@ -21,8 +21,8 @@
         "allow-svg": "*",
         "cpt-parent": "*",
         "cf7-tac-recaptcha": "*",
-        "agenda": "*",
-        "klezmer": "*",
-        "video": "*"
+        "fantaskao/agenda": "*",
+        "fantaskao/klezmer": "*",
+        "fantaskao/video": "*"
     }
 }
