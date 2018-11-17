@@ -11,7 +11,8 @@
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/cf7-tac-recaptcha.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/agenda" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/klezmer" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video" }
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video-thumbnail" }
     ],
     "require": {
         "advanced-custom-fields-pro": "*",
@@ -23,6 +24,7 @@
         "cf7-tac-recaptcha": "*",
         "fantaskao/agenda": "*",
         "fantaskao/klezmer": "*",
-        "fantaskao/video": "*"
+        "fantaskao/video": "*",
+        "fantaskao/video-thumbnail": "*"
     }
 }
