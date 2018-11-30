@@ -15,18 +15,5 @@
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video-thumbnail.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/ovh-email-redirections.git" }
     ],
-    "require": {
-        "advanced-custom-fields-pro": "*",
-        "post-order": "*",
-        "social-network": "*",
-        "disable-comments": "*",
-        "allow-svg": "*",
-        "cpt-parent": "*",
-        "cf7-tac-recaptcha": "*",
-        "fantaskao/agenda": "*",
-        "fantaskao/klezmer": "*",
-        "fantaskao/video": "*",
-        "fantaskao/video-thumbnail": "*",
-        "fantaskao/ovh-email-redirections": "*"
-    }
+    "require-all": true
 }
