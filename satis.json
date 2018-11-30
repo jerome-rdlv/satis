@@ -12,7 +12,8 @@
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/agenda" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/klezmer" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video-thumbnail" }
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video-thumbnail" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/ovh-email-redirections" }
     ],
     "require": {
         "advanced-custom-fields-pro": "*",
@@ -25,6 +26,7 @@
         "fantaskao/agenda": "*",
         "fantaskao/klezmer": "*",
         "fantaskao/video": "*",
-        "fantaskao/video-thumbnail": "*"
+        "fantaskao/video-thumbnail": "*",
+        "fantaskao/ovh-email-redirections": "*"
     }
 }
