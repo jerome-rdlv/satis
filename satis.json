@@ -9,11 +9,11 @@
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/allow-svg.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/cpt-parent.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/cf7-tac-recaptcha.git" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/agenda" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/klezmer" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video-thumbnail" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/ovh-email-redirections" }
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/agenda.git" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/klezmer.git" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video.git" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video-thumbnail.git" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/ovh-email-redirections.git" }
     ],
     "require": {
         "advanced-custom-fields-pro": "*",
