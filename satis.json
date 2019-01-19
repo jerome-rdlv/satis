@@ -13,7 +13,7 @@
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/klezmer.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/video.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/embed-video-thumbnail.git" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/ovh-email-redirections.git" }
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/fantaskao/ovh-email-redirections.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/dummy.git" }
     ],
     "require-all": true
