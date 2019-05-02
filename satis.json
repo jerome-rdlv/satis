@@ -3,6 +3,7 @@
     "homepage": "https://jerome.gitlab.rue-de-la-vieille.fr/satis/",
     "repositories": [
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/advanced-custom-fields-pro.git" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/cachebust-assets.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/post-order.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/social-network.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/disable-comments.git" },
