@@ -12,6 +12,7 @@
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/cachebust-assets.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/cf7-tac-recaptcha.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/cpt-parent.git" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/custom-scripts.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/disable-comments.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/dummy.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/email-smtp.git" },
