@@ -17,9 +17,10 @@
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/disable-comments.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/dummy.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/email-smtp.git" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/html-manipulation.git" },
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/mysql-fix-encodings.git" },
         { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/post-order.git" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/social-network.git" },
-        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/mysql-fix-encodings.git" }
+        { "type": "vcs", "url": "ssh://git@gitlab.rue-de-la-vieille.fr:10022/jerome/social-network.git" }
     ],
     "require-all": true
 }
