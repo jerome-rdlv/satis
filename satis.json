@@ -3,7 +3,15 @@
     "homepage": "https://jerome.gitlab.rue-de-la-vieille.fr/satis/",
     "repositories": [
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/advanced-custom-fields-pro.git" },
-        { "type": "vcs", "url": "git@github.com:jerome-rdlv/cpt-parent.git" }
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/cpt-parent.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/allow-svg.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/cachebust-assets.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/cf7-tac-recaptcha.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/custom-scripts.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/email-smtp.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/html-manipulation.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/post-order.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/webp-images.git" }
     ],
     "require-all": true
 }
