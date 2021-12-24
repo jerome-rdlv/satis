@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "jerome-rdlv/custom-scripts": [
+            {
+                "name": "jerome-rdlv/custom-scripts",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/custom-scripts.git",
+                    "reference": "c87e0efd758540b1eea0936b63cb2689ce0beb09"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/custom-scripts/zipball/c87e0efd758540b1eea0936b63cb2689ce0beb09",
+                    "reference": "c87e0efd758540b1eea0936b63cb2689ce0beb09",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4"
+                },
+                "time": "2020-10-05T16:29:22+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "Insert custom scripts in pages",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/custom-scripts/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/custom-scripts/issues"
+                }
+            }
+        ]
+    }
+}

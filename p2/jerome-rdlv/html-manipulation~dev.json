@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "jerome-rdlv/html-manipulation": [
+            {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "27b49836b6b82fc0cd146960981001f7950a1692"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/27b49836b6b82fc0cd146960981001f7950a1692",
+                    "reference": "27b49836b6b82fc0cd146960981001f7950a1692",
+                    "shasum": ""
+                },
+                "require": {
+                    "masterminds/html5": "^2.7",
+                    "symfony/css-selector": ">=3.4"
+                },
+                "time": "2021-08-27T10:29:31+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
+            }
+        ]
+    }
+}

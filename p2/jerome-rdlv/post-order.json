@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "jerome-rdlv/post-order": [
+            {
+                "name": "jerome-rdlv/post-order",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/post-order.git",
+                    "reference": "75a4a6f59c817cb40538fe02be14de64b14fa553"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/75a4a6f59c817cb40538fe02be14de64b14fa553",
+                    "reference": "75a4a6f59c817cb40538fe02be14de64b14fa553",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-10-04T15:35:00+00:00",
+                "type": "wordpress-muplugin",
+                "license": [
+                    "private"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "Allow to order posts by drag and drop.",
+                "homepage": "https://rue-de-la-vieille.fr/",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/post-order/tree/1.0",
+                    "issues": "https://github.com/jerome-rdlv/post-order/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "jerome-rdlv/post-order": [
+            {
+                "name": "jerome-rdlv/post-order",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/post-order.git",
+                    "reference": "01706c3be35b35ea1255b39ba183e29a6381dbc2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/01706c3be35b35ea1255b39ba183e29a6381dbc2",
+                    "reference": "01706c3be35b35ea1255b39ba183e29a6381dbc2",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2019-09-02T13:41:35+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "WordPress plugin to allow to set posts order by drag and drop",
+                "homepage": "https://github.com/jerome-rdlv/post-order",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/post-order/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/post-order/issues"
+                }
+            }
+        ]
+    }
+}

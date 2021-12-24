@@ -1913,6 +1913,728 @@
                     "issues": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/issues"
                 }
             }
+        },
+        "jerome-rdlv/allow-svg": {
+            "dev-master": {
+                "name": "jerome-rdlv/allow-svg",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/allow-svg.git",
+                    "reference": "fb7d312bfbd8e593b9845463a607351c99dec4a0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/allow-svg/zipball/fb7d312bfbd8e593b9845463a607351c99dec4a0",
+                    "reference": "fb7d312bfbd8e593b9845463a607351c99dec4a0",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2021-01-15T12:26:20+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "Allow to upload svg files in media manager.",
+                "homepage": "https://gitlab.rue-de-la-vieille.fr/jerome/allow-svg",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/allow-svg/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/allow-svg/issues"
+                }
+            }
+        },
+        "jerome-rdlv/cachebust-assets": {
+            "0.1": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "29e5bebeefc683cd800de3338eb2ceed61fd7857"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/29e5bebeefc683cd800de3338eb2ceed61fd7857",
+                    "reference": "29e5bebeefc683cd800de3338eb2ceed61fd7857",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=7.2"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "phpunit/phpunit": "^8.0"
+                },
+                "time": "2019-05-07T17:52:30+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL (in query string or path).",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/0.1",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "0.1.1": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "3af5c9a24e14850e2d1c336ebba634d06e2c17d6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/3af5c9a24e14850e2d1c336ebba634d06e2c17d6",
+                    "reference": "3af5c9a24e14850e2d1c336ebba634d06e2c17d6",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=7.2"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "phpunit/phpunit": "^8.0"
+                },
+                "time": "2019-05-07T18:10:00+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL (in query string or path).",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/0.1.1",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "0.1.2": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "b026c5ee651bd25947a17585e3f6fd70add48d62"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/b026c5ee651bd25947a17585e3f6fd70add48d62",
+                    "reference": "b026c5ee651bd25947a17585e3f6fd70add48d62",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=7.2"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "phpunit/phpunit": "^8.0"
+                },
+                "time": "2019-05-07T19:43:43+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL (in query string or path).",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/0.1.2",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "0.1.3": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "0.1.3",
+                "version_normalized": "0.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "7f28b5006b99d77b33a0ee8f8b00a29678d90792"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/7f28b5006b99d77b33a0ee8f8b00a29678d90792",
+                    "reference": "7f28b5006b99d77b33a0ee8f8b00a29678d90792",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=7.2"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "phpunit/phpunit": "^8.0"
+                },
+                "time": "2019-05-07T20:51:24+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL (in query string or path).",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/0.1.3",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "0.1.4": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "0.1.4",
+                "version_normalized": "0.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "d7a74578ad699df0cdc1dc4a76b6bf45daee3cf3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/d7a74578ad699df0cdc1dc4a76b6bf45daee3cf3",
+                    "reference": "d7a74578ad699df0cdc1dc4a76b6bf45daee3cf3",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=7.2"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "phpunit/phpunit": "^8.0"
+                },
+                "time": "2019-05-21T08:06:31+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL, in query string or path.",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/0.1.4",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "0.1.5": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "0.1.5",
+                "version_normalized": "0.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "0e9a65f29b8fce85224fc940f203b7fe26c1f1cb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/0e9a65f29b8fce85224fc940f203b7fe26c1f1cb",
+                    "reference": "0e9a65f29b8fce85224fc940f203b7fe26c1f1cb",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=7.2"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "phpunit/phpunit": "^8.0"
+                },
+                "time": "2019-05-21T08:29:37+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL, in query string or path.",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/0.1.5",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "0.1.6": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "0.1.6",
+                "version_normalized": "0.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "f02d10493d5af0b044eb4a4e00a915fabbf081e7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/f02d10493d5af0b044eb4a4e00a915fabbf081e7",
+                    "reference": "f02d10493d5af0b044eb4a4e00a915fabbf081e7",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=7.2"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "phpunit/phpunit": "^8.0"
+                },
+                "time": "2019-09-03T16:14:08+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL, in query string or path.",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/0.1.6",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "0.1.7": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "0.1.7",
+                "version_normalized": "0.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "d84c70c5b2be2a17fd6c29dca3de8572bc2aaba3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/d84c70c5b2be2a17fd6c29dca3de8572bc2aaba3",
+                    "reference": "d84c70c5b2be2a17fd6c29dca3de8572bc2aaba3",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "phpunit/phpunit": "^8.0"
+                },
+                "time": "2020-12-01T20:31:42+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL, in query string or path.",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/0.1.7",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "dev-master": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "ab71ffb698cc7a8ac0737a99177e281e7b672498"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/ab71ffb698cc7a8ac0737a99177e281e7b672498",
+                    "reference": "ab71ffb698cc7a8ac0737a99177e281e7b672498",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "phpunit/phpunit": "^8.0"
+                },
+                "time": "2021-07-08T08:17:10+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL, in query string or path.",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            }
+        },
+        "jerome-rdlv/cf7-tac-recaptcha": {
+            "dev-master": {
+                "name": "jerome-rdlv/cf7-tac-recaptcha",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cf7-tac-recaptcha.git",
+                    "reference": "020d5e92edffe8ec5101bb75c2a30abc18151722"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cf7-tac-recaptcha/zipball/020d5e92edffe8ec5101bb75c2a30abc18151722",
+                    "reference": "020d5e92edffe8ec5101bb75c2a30abc18151722",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4"
+                },
+                "time": "2021-08-30T10:26:13+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "WordPress plugin to handle ContactForm7 reCaptcha feature with TarteAuCitron",
+                "homepage": "https://github.com/jerome-rdlv/cf7-tac-recpatcha",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cf7-tac-recaptcha/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/cf7-tac-recaptcha/issues"
+                }
+            }
+        },
+        "jerome-rdlv/custom-scripts": {
+            "dev-master": {
+                "name": "jerome-rdlv/custom-scripts",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/custom-scripts.git",
+                    "reference": "c87e0efd758540b1eea0936b63cb2689ce0beb09"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/custom-scripts/zipball/c87e0efd758540b1eea0936b63cb2689ce0beb09",
+                    "reference": "c87e0efd758540b1eea0936b63cb2689ce0beb09",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4"
+                },
+                "time": "2020-10-05T16:29:22+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "Insert custom scripts in pages",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/custom-scripts/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/custom-scripts/issues"
+                }
+            }
+        },
+        "jerome-rdlv/email-smtp": {
+            "dev-master": {
+                "name": "jerome-rdlv/email-smtp",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/email-smtp.git",
+                    "reference": "2c0fd46f64fa346cb10467046496956612d9e615"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/2c0fd46f64fa346cb10467046496956612d9e615",
+                    "reference": "2c0fd46f64fa346cb10467046496956612d9e615",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0"
+                },
+                "time": "2021-10-20T17:07:10+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "scripts": {
+                    "post-update-cmd": [
+                        "wp i18n make-pot . languages/email-smtp.pot"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Send emails using wp-config.php SMTP settings",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/email-smtp/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/email-smtp/issues"
+                }
+            }
+        },
+        "jerome-rdlv/html-manipulation": {
+            "dev-master": {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "27b49836b6b82fc0cd146960981001f7950a1692"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/27b49836b6b82fc0cd146960981001f7950a1692",
+                    "reference": "27b49836b6b82fc0cd146960981001f7950a1692",
+                    "shasum": ""
+                },
+                "require": {
+                    "masterminds/html5": "^2.7",
+                    "symfony/css-selector": ">=3.4"
+                },
+                "time": "2021-08-27T10:29:31+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
+            }
+        },
+        "jerome-rdlv/post-order": {
+            "1.0": {
+                "name": "jerome-rdlv/post-order",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/post-order.git",
+                    "reference": "75a4a6f59c817cb40538fe02be14de64b14fa553"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/75a4a6f59c817cb40538fe02be14de64b14fa553",
+                    "reference": "75a4a6f59c817cb40538fe02be14de64b14fa553",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-10-04T15:35:00+00:00",
+                "type": "wordpress-muplugin",
+                "license": [
+                    "private"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "Allow to order posts by drag and drop.",
+                "homepage": "https://rue-de-la-vieille.fr/",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/post-order/tree/1.0",
+                    "issues": "https://github.com/jerome-rdlv/post-order/issues"
+                }
+            },
+            "dev-master": {
+                "name": "jerome-rdlv/post-order",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/post-order.git",
+                    "reference": "01706c3be35b35ea1255b39ba183e29a6381dbc2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/01706c3be35b35ea1255b39ba183e29a6381dbc2",
+                    "reference": "01706c3be35b35ea1255b39ba183e29a6381dbc2",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2019-09-02T13:41:35+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "WordPress plugin to allow to set posts order by drag and drop",
+                "homepage": "https://github.com/jerome-rdlv/post-order",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/post-order/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/post-order/issues"
+                }
+            }
+        },
+        "jerome-rdlv/webp-images": {
+            "dev-master": {
+                "name": "jerome-rdlv/webp-images",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/webp-images.git",
+                    "reference": "a4443f089f460f5165fa865e49e5daf3b6c9d1e4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/a4443f089f460f5165fa865e49e5daf3b6c9d1e4",
+                    "reference": "a4443f089f460f5165fa865e49e5daf3b6c9d1e4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0"
+                },
+                "time": "2021-03-17T10:21:11+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add a cron job that creates WebP versions of all uploaded images",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/webp-images/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/webp-images/issues"
+                }
+            }
         }
     }
 }

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "jerome-rdlv/email-smtp": [
+            {
+                "name": "jerome-rdlv/email-smtp",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/email-smtp.git",
+                    "reference": "2c0fd46f64fa346cb10467046496956612d9e615"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/2c0fd46f64fa346cb10467046496956612d9e615",
+                    "reference": "2c0fd46f64fa346cb10467046496956612d9e615",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0"
+                },
+                "time": "2021-10-20T17:07:10+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "scripts": {
+                    "post-update-cmd": [
+                        "wp i18n make-pot . languages/email-smtp.pot"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Send emails using wp-config.php SMTP settings",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/email-smtp/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/email-smtp/issues"
+                }
+            }
+        ]
+    }
+}

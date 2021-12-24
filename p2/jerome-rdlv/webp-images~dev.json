@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "jerome-rdlv/webp-images": [
+            {
+                "name": "jerome-rdlv/webp-images",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/webp-images.git",
+                    "reference": "a4443f089f460f5165fa865e49e5daf3b6c9d1e4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/a4443f089f460f5165fa865e49e5daf3b6c9d1e4",
+                    "reference": "a4443f089f460f5165fa865e49e5daf3b6c9d1e4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0"
+                },
+                "time": "2021-03-17T10:21:11+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add a cron job that creates WebP versions of all uploaded images",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/webp-images/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/webp-images/issues"
+                }
+            }
+        ]
+    }
+}
