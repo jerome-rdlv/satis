@@ -1,0 +1,12 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$545c983d1003128196380e58993957a5f2138009.json": {
+            "sha1": "545c983d1003128196380e58993957a5f2138009"
+        }
+    },
+    "metadata-url": "/satis/p2/%package%.json",
+    "available-packages": [
+        "jerome-rdlv/advanced-custom-fields-pro"
+    ]
+}
