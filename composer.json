@@ -1,0 +1,12 @@
+{
+    "name": "jerome-rdlv/satis",
+    "require": {
+        "composer/satis": "dev-main"
+    },
+    "authors": [
+        {
+            "name": "Jérôme Mulsant",
+            "email": "jerome@rue-de-la-vieille.fr"
+        }
+    ]
+}

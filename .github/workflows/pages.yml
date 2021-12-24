@@ -1,0 +1,45 @@
+name: gh-pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '0 0 * * *' # Midnight - every night
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: true
+
+    name: Deploy to gh-pages
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2.4.0
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@2.16.0
+        with:
+          php-version: 7.4
+          tools: composer:v2
+
+      - name: Install dependencies
+        run: |
+          composer -g config github-oauth.github.com ${{ secrets.SATIS_GITHUB_ACCESS }}
+          composer install --prefer-dist --no-interaction --no-progress
+      - name: Build satis
+        run: |
+          ./vendor/bin/satis build ./satis.json ./public
+          shopt -s globstar
+          sed -i -e 's/\(pear-pear\.horde\.org\/.*\)/\L\1/' public/**/*.json
+          sed -i -e 's/"type": "file",/"type": "tar",/' public/**/*.json
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.6
+        with:
+          GITHUB_TOKEN: ${{ secrets.SATIS_GITHUB_ACCESS }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: public # The folder the action should deploy.
+          CLEAN: true # Automatically remove deleted files from the deploy branch
