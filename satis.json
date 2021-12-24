@@ -2,7 +2,8 @@
     "name": "jerome-rdlv/packages",
     "homepage": "https://jerome.gitlab.rue-de-la-vieille.fr/satis/",
     "repositories": [
-        { "type": "vcs", "url": "git@github.com:jerome-rdlv/advanced-custom-fields-pro.git" }
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/advanced-custom-fields-pro.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/cpt-parent.git" }
     ],
     "require-all": true
 }
