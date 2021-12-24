@@ -1,17 +1,17 @@
 {
     "packages": [],
     "includes": {
-        "include/all$6ea40cb8244696bf00f2135ca31a25eebefcdf54.json": {
-            "sha1": "6ea40cb8244696bf00f2135ca31a25eebefcdf54"
+        "include/all$e9121a001b393c8b369dbc029c14268e5be89de6.json": {
+            "sha1": "e9121a001b393c8b369dbc029c14268e5be89de6"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
-        "cpt-parent",
         "jerome-rdlv/advanced-custom-fields-pro",
         "jerome-rdlv/allow-svg",
         "jerome-rdlv/cachebust-assets",
         "jerome-rdlv/cf7-tac-recaptcha",
+        "jerome-rdlv/cpt-parent",
         "jerome-rdlv/custom-scripts",
         "jerome-rdlv/email-smtp",
         "jerome-rdlv/html-manipulation",

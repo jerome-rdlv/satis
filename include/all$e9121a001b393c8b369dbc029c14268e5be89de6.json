@@ -1,44 +1,5 @@
 {
     "packages": {
-        "cpt-parent": {
-            "dev-master": {
-                "name": "cpt-parent",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/jerome-rdlv/cpt-parent.git",
-                    "reference": "7862fb4a96432bb12e26b70042c2630803fdc11e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/cpt-parent/zipball/7862fb4a96432bb12e26b70042c2630803fdc11e",
-                    "reference": "7862fb4a96432bb12e26b70042c2630803fdc11e",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=5.4"
-                },
-                "time": "2019-01-23T18:20:14+00:00",
-                "default-branch": true,
-                "type": "wordpress-muplugin",
-                "license": [
-                    "MIT"
-                ],
-                "authors": [
-                    {
-                        "name": "Jérôme Mulsant",
-                        "homepage": "https://rue-de-la-vieille.fr/"
-                    }
-                ],
-                "description": "WordPress plugin to define a page as parent of a custom post type",
-                "homepage": "https://github.com/jerome-rdlv/cpt-parent",
-                "support": {
-                    "source": "https://github.com/jerome-rdlv/cpt-parent/tree/master",
-                    "issues": "https://github.com/jerome-rdlv/cpt-parent/issues"
-                }
-            }
-        },
         "jerome-rdlv/advanced-custom-fields-pro": {
             "5.10": {
                 "name": "jerome-rdlv/advanced-custom-fields-pro",
@@ -2399,6 +2360,45 @@
                 }
             }
         },
+        "jerome-rdlv/cpt-parent": {
+            "dev-master": {
+                "name": "jerome-rdlv/cpt-parent",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cpt-parent.git",
+                    "reference": "fba8e9a77104988cd0a3c4ef02f612d1dc5dcd63"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cpt-parent/zipball/fba8e9a77104988cd0a3c4ef02f612d1dc5dcd63",
+                    "reference": "fba8e9a77104988cd0a3c4ef02f612d1dc5dcd63",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4"
+                },
+                "time": "2019-09-03T15:04:47+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "WordPress plugin to define a page as parent of a custom post type",
+                "homepage": "https://github.com/jerome-rdlv/cpt-parent",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cpt-parent/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/cpt-parent/issues"
+                }
+            }
+        },
         "jerome-rdlv/custom-scripts": {
             "dev-master": {
                 "name": "jerome-rdlv/custom-scripts",
@@ -2488,19 +2488,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/html-manipulation.git",
-                    "reference": "27b49836b6b82fc0cd146960981001f7950a1692"
+                    "reference": "e3ccf081d7a8afc449f9e9761934da502bdeeb87"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/27b49836b6b82fc0cd146960981001f7950a1692",
-                    "reference": "27b49836b6b82fc0cd146960981001f7950a1692",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/e3ccf081d7a8afc449f9e9761934da502bdeeb87",
+                    "reference": "e3ccf081d7a8afc449f9e9761934da502bdeeb87",
                     "shasum": ""
                 },
                 "require": {
                     "masterminds/html5": "^2.7",
                     "symfony/css-selector": ">=3.4"
                 },
-                "time": "2021-08-27T10:29:31+00:00",
+                "time": "2021-12-24T17:26:03+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {

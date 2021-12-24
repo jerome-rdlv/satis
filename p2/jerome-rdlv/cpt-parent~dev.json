@@ -1,25 +1,25 @@
 {
     "packages": {
-        "cpt-parent": [
+        "jerome-rdlv/cpt-parent": [
             {
-                "name": "cpt-parent",
+                "name": "jerome-rdlv/cpt-parent",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/cpt-parent.git",
-                    "reference": "7862fb4a96432bb12e26b70042c2630803fdc11e"
+                    "reference": "fba8e9a77104988cd0a3c4ef02f612d1dc5dcd63"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/cpt-parent/zipball/7862fb4a96432bb12e26b70042c2630803fdc11e",
-                    "reference": "7862fb4a96432bb12e26b70042c2630803fdc11e",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cpt-parent/zipball/fba8e9a77104988cd0a3c4ef02f612d1dc5dcd63",
+                    "reference": "fba8e9a77104988cd0a3c4ef02f612d1dc5dcd63",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.4"
                 },
-                "time": "2019-01-23T18:20:14+00:00",
+                "time": "2019-09-03T15:04:47+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
