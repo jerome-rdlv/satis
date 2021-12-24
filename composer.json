@@ -1,8 +1,15 @@
 {
     "name": "jerome-rdlv/satis",
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    },
     "require": {
+        "php": ">=7.4",
         "composer/satis": "dev-main"
     },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Jérôme Mulsant",
