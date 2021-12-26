@@ -5,8 +5,11 @@ on:
   push:
     branches:
       - master
-  schedule:
-    - cron:  '0 0 * * *' # Midnight - every night
+  repository_dispatch:
+    types:
+      - webhook
+  #schedule:
+  #    - cron:  '0 0 * * *' # Midnight - every night
 
 jobs:
   deploy:
