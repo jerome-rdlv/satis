@@ -2488,19 +2488,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/html-manipulation.git",
-                    "reference": "e3ccf081d7a8afc449f9e9761934da502bdeeb87"
+                    "reference": "2ee43e6eb679baa07d0255d59f8187a626507f19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/e3ccf081d7a8afc449f9e9761934da502bdeeb87",
-                    "reference": "e3ccf081d7a8afc449f9e9761934da502bdeeb87",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/2ee43e6eb679baa07d0255d59f8187a626507f19",
+                    "reference": "2ee43e6eb679baa07d0255d59f8187a626507f19",
                     "shasum": ""
                 },
                 "require": {
                     "masterminds/html5": "^2.7",
                     "symfony/css-selector": ">=3.4"
                 },
-                "time": "2021-12-24T17:26:03+00:00",
+                "time": "2022-01-15T23:08:53+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
