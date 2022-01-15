@@ -2567,18 +2567,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/post-order.git",
-                    "reference": "01706c3be35b35ea1255b39ba183e29a6381dbc2"
+                    "reference": "1e940d59d5ae8f968af41ec18555098593cfa405"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/01706c3be35b35ea1255b39ba183e29a6381dbc2",
-                    "reference": "01706c3be35b35ea1255b39ba183e29a6381dbc2",
+                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/1e940d59d5ae8f968af41ec18555098593cfa405",
+                    "reference": "1e940d59d5ae8f968af41ec18555098593cfa405",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2019-09-02T13:41:35+00:00",
+                "time": "2022-01-05T09:02:11+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
@@ -2590,7 +2590,7 @@
                         "homepage": "https://rue-de-la-vieille.fr/"
                     }
                 ],
-                "description": "WordPress plugin to allow to set posts order by drag and drop",
+                "description": "WordPress plugin to allow to set posts and terms order by drag and drop",
                 "homepage": "https://github.com/jerome-rdlv/post-order",
                 "support": {
                     "source": "https://github.com/jerome-rdlv/post-order/tree/master",
