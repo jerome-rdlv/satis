@@ -1915,6 +1915,46 @@
                 }
             }
         },
+        "jerome-rdlv/boond-manager": {
+            "dev-master": {
+                "name": "jerome-rdlv/boond-manager",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:jerome-rdlv/boond-manager.git",
+                    "reference": "b23ad6cbe93954af19a09f9eeb19e49a681932c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/boond-manager/zipball/b23ad6cbe93954af19a09f9eeb19e49a681932c4",
+                    "reference": "b23ad6cbe93954af19a09f9eeb19e49a681932c4",
+                    "shasum": ""
+                },
+                "time": "2022-02-22T09:40:42+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\BoondManager\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Access to BoondManager API",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/boond-manager/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/boond-manager/issues"
+                }
+            }
+        },
         "jerome-rdlv/cachebust-assets": {
             "0.1": {
                 "name": "jerome-rdlv/cachebust-assets",

@@ -1,14 +1,15 @@
 {
     "packages": [],
     "includes": {
-        "include/all$5539fb5c6831278f4b66317074deadd1d58be012.json": {
-            "sha1": "5539fb5c6831278f4b66317074deadd1d58be012"
+        "include/all$78cde99ed04cc4ba49639616f9d2d35bf24a97c3.json": {
+            "sha1": "78cde99ed04cc4ba49639616f9d2d35bf24a97c3"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
         "jerome-rdlv/advanced-custom-fields-pro",
         "jerome-rdlv/allow-svg",
+        "jerome-rdlv/boond-manager",
         "jerome-rdlv/cachebust-assets",
         "jerome-rdlv/cf7-tac-recaptcha",
         "jerome-rdlv/cpt-parent",
