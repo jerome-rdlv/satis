@@ -1923,15 +1923,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:jerome-rdlv/boond-manager.git",
-                    "reference": "b23ad6cbe93954af19a09f9eeb19e49a681932c4"
+                    "reference": "605cc94a9cb93e69fdfef2643b79875b55d2a20b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/boond-manager/zipball/b23ad6cbe93954af19a09f9eeb19e49a681932c4",
-                    "reference": "b23ad6cbe93954af19a09f9eeb19e49a681932c4",
+                    "url": "https://api.github.com/repos/jerome-rdlv/boond-manager/zipball/605cc94a9cb93e69fdfef2643b79875b55d2a20b",
+                    "reference": "605cc94a9cb93e69fdfef2643b79875b55d2a20b",
                     "shasum": ""
                 },
-                "time": "2022-02-22T09:40:42+00:00",
+                "time": "2022-02-22T11:40:37+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
