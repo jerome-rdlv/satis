@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
-                    "reference": "ab71ffb698cc7a8ac0737a99177e281e7b672498"
+                    "reference": "2296cf999c5d09be98fd7f6d49136210f805748f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/ab71ffb698cc7a8ac0737a99177e281e7b672498",
-                    "reference": "ab71ffb698cc7a8ac0737a99177e281e7b672498",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/2296cf999c5d09be98fd7f6d49136210f805748f",
+                    "reference": "2296cf999c5d09be98fd7f6d49136210f805748f",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "mikey179/vfsstream": "^1.6",
                     "phpunit/phpunit": "^8.0"
                 },
-                "time": "2021-07-08T08:17:10+00:00",
+                "time": "2022-02-24T12:45:58+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
