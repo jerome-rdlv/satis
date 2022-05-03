@@ -2602,18 +2602,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/email-smtp.git",
-                    "reference": "2c0fd46f64fa346cb10467046496956612d9e615"
+                    "reference": "1bef7f6eeea6d9bd24b73c24b1765887e0dd9856"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/2c0fd46f64fa346cb10467046496956612d9e615",
-                    "reference": "2c0fd46f64fa346cb10467046496956612d9e615",
+                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/1bef7f6eeea6d9bd24b73c24b1765887e0dd9856",
+                    "reference": "1bef7f6eeea6d9bd24b73c24b1765887e0dd9856",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.0"
                 },
-                "time": "2021-10-20T17:07:10+00:00",
+                "time": "2022-05-02T16:40:03+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "scripts": {
