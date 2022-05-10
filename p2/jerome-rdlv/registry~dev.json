@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "jerome-rdlv/registry": [
+            {
+                "name": "jerome-rdlv/registry",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/registry.git",
+                    "reference": "793ae128b9d850fcadc31f3b020b4fe2020688ac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/registry/zipball/793ae128b9d850fcadc31f3b020b4fe2020688ac",
+                    "reference": "793ae128b9d850fcadc31f3b020b4fe2020688ac",
+                    "shasum": ""
+                },
+                "time": "2022-05-10T15:05:01+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\Registry\\": "./"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/registry/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/registry/issues"
+                }
+            }
+        ]
+    }
+}
