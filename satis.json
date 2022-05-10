@@ -10,6 +10,7 @@
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/custom-scripts.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/email-smtp.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/html-manipulation.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/registry.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/post-order.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/webp-images.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/boond-manager.git" }
