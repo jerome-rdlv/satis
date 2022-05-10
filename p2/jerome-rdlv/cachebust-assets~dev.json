@@ -8,28 +8,37 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
-                    "reference": "2296cf999c5d09be98fd7f6d49136210f805748f"
+                    "reference": "6741a3d4f80308c095222585b24df05e3515357c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/2296cf999c5d09be98fd7f6d49136210f805748f",
-                    "reference": "2296cf999c5d09be98fd7f6d49136210f805748f",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/6741a3d4f80308c095222585b24df05e3515357c",
+                    "reference": "6741a3d4f80308c095222585b24df05e3515357c",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=7.0"
+                    "php": ">=7.4"
                 },
                 "require-dev": {
                     "mikey179/vfsstream": "^1.6",
+                    "phpstan/phpstan": "^1.6",
                     "phpunit/phpunit": "^8.0"
                 },
-                "time": "2022-02-24T12:45:58+00:00",
+                "time": "2022-05-10T17:18:30+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
                         "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
                     }
+                },
+                "scripts": {
+                    "test": [
+                        "@php vendor/bin/phpunit --configuration phpunit.xml"
+                    ],
+                    "phpstan": [
+                        "@php vendor/bin/phpstan analyze src"
+                    ]
                 },
                 "license": [
                     "MIT"
