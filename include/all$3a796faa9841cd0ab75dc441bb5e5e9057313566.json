@@ -2946,6 +2946,42 @@
                     "issues": "https://github.com/jerome-rdlv/webp-images/issues"
                 }
             }
+        },
+        "jerome-rdlv/wp-translation-update": {
+            "dev-master": {
+                "name": "jerome-rdlv/wp-translation-update",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/wp-translation-update.git",
+                    "reference": "0ac181c6934d1d251bd95a5f179dd7e3d8ca57b8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/wp-translation-update/zipball/0ac181c6934d1d251bd95a5f179dd7e3d8ca57b8",
+                    "reference": "0ac181c6934d1d251bd95a5f179dd7e3d8ca57b8",
+                    "shasum": ""
+                },
+                "time": "2022-05-31T12:37:15+00:00",
+                "default-branch": true,
+                "bin": [
+                    "wp-translation-update",
+                    "wtu"
+                ],
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "CLI utility for WordPress to generate POT from source, update PO and compile MO",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/wp-translation-update/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/wp-translation-update/issues"
+                }
+            }
         }
     }
 }
