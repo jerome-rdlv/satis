@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/wp-translation-update.git",
-                    "reference": "0ac181c6934d1d251bd95a5f179dd7e3d8ca57b8"
+                    "reference": "44032b41f814bdd73412f2ebe16fa8c5f4f31bce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/wp-translation-update/zipball/0ac181c6934d1d251bd95a5f179dd7e3d8ca57b8",
-                    "reference": "0ac181c6934d1d251bd95a5f179dd7e3d8ca57b8",
+                    "url": "https://api.github.com/repos/jerome-rdlv/wp-translation-update/zipball/44032b41f814bdd73412f2ebe16fa8c5f4f31bce",
+                    "reference": "44032b41f814bdd73412f2ebe16fa8c5f4f31bce",
                     "shasum": ""
                 },
-                "time": "2022-05-31T12:37:15+00:00",
+                "time": "2022-05-31T12:47:05+00:00",
                 "default-branch": true,
                 "bin": [
                     "wp-translation-update",
