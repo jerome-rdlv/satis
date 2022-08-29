@@ -1,5 +1,55 @@
 {
     "packages": {
+        "inflexyon/payment": {
+            "dev-master": {
+                "name": "inflexyon/payment",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:jerome-rdlv/inflexyon.payment.git",
+                    "reference": "780d6b23ed69deb0142e861f8c3bff90cba61d7f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/inflexyon.payment/zipball/780d6b23ed69deb0142e861f8c3bff90cba61d7f",
+                    "reference": "780d6b23ed69deb0142e861f8c3bff90cba61d7f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2021-09-20T07:55:21+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Inflexyon\\Payment\\": "src/"
+                    }
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "yarn install; yarn build"
+                    ],
+                    "post-update-cmd": [
+                        "yarn install; yarn build"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/inflexyon.payment/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/inflexyon.payment/issues"
+                }
+            }
+        },
         "jerome-rdlv/advanced-custom-fields-pro": {
             "5.10": {
                 "name": "jerome-rdlv/advanced-custom-fields-pro",
