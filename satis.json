@@ -15,7 +15,7 @@
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/webp-images.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/boond-manager.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/wp-translation-update.git" },
-        { "type": "vcs", "url": "git@gitea.rue-de-la-vieille.fr:inflexyon/payment.git"}
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/inflexyon.payment.git"}
     ],
     "require-all": true
 }
