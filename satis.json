@@ -1,6 +1,6 @@
 {
     "name": "jerome-rdlv/packages",
-    "homepage": "https://jerome.gitlab.rue-de-la-vieille.fr/satis/",
+    "homepage": "https://jerome-rdlv.github.io/satis/",
     "repositories": [
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/advanced-custom-fields-pro.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/cpt-parent.git" },
@@ -14,7 +14,8 @@
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/post-order.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/webp-images.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/boond-manager.git" },
-        { "type": "vcs", "url": "git@github.com:jerome-rdlv/wp-translation-update.git" }
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/wp-translation-update.git" },
+        { "type": "vcs", "url": "git@gitea.rue-de-la-vieille.fr:inflexyon/payment.git"}
     ],
     "require-all": true
 }
