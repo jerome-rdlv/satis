@@ -2690,18 +2690,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/cf7-tac-recaptcha.git",
-                    "reference": "020d5e92edffe8ec5101bb75c2a30abc18151722"
+                    "reference": "833f76b353a8be2da0dff1327865ae46be1dfeae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/cf7-tac-recaptcha/zipball/020d5e92edffe8ec5101bb75c2a30abc18151722",
-                    "reference": "020d5e92edffe8ec5101bb75c2a30abc18151722",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cf7-tac-recaptcha/zipball/833f76b353a8be2da0dff1327865ae46be1dfeae",
+                    "reference": "833f76b353a8be2da0dff1327865ae46be1dfeae",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.4"
                 },
-                "time": "2021-08-30T10:26:13+00:00",
+                "time": "2022-09-07T21:10:15+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
