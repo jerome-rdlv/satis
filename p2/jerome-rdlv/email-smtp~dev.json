@@ -8,20 +8,25 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/email-smtp.git",
-                    "reference": "1bef7f6eeea6d9bd24b73c24b1765887e0dd9856"
+                    "reference": "08b817bc01349c2fbf0d66b1281f325610a02e4b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/1bef7f6eeea6d9bd24b73c24b1765887e0dd9856",
-                    "reference": "1bef7f6eeea6d9bd24b73c24b1765887e0dd9856",
+                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/08b817bc01349c2fbf0d66b1281f325610a02e4b",
+                    "reference": "08b817bc01349c2fbf0d66b1281f325610a02e4b",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.0"
                 },
-                "time": "2022-05-02T16:40:03+00:00",
+                "time": "2022-09-15T09:23:12+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\EmailSmtp\\": "src/"
+                    }
+                },
                 "scripts": {
                     "post-update-cmd": [
                         "wp i18n make-pot . languages/email-smtp.pot"
