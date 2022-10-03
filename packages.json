@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$20c93987ec89865d1e33cc0d099a878172585afd.json": {
-            "sha1": "20c93987ec89865d1e33cc0d099a878172585afd"
+        "include/all$e4deba56d94d13a6fa9b50a1098765969e3e1ce3.json": {
+            "sha1": "e4deba56d94d13a6fa9b50a1098765969e3e1ce3"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -17,6 +17,7 @@
         "jerome-rdlv/custom-scripts",
         "jerome-rdlv/email-smtp",
         "jerome-rdlv/html-manipulation",
+        "jerome-rdlv/mailjet-api",
         "jerome-rdlv/post-order",
         "jerome-rdlv/registry",
         "jerome-rdlv/webp-images",

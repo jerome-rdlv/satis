@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "jerome-rdlv/mailjet-api": [
+            {
+                "name": "jerome-rdlv/mailjet-api",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/mailjet-api.git",
+                    "reference": "d940527d1ae98013cda173f1aafe5b6f18ddcce7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/mailjet-api/zipball/d940527d1ae98013cda173f1aafe5b6f18ddcce7",
+                    "reference": "d940527d1ae98013cda173f1aafe5b6f18ddcce7",
+                    "shasum": ""
+                },
+                "require": {
+                    "mailjet/mailjet-apiv3-php": "^1.5"
+                },
+                "time": "2022-09-29T15:03:32+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\MailjetApi\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Send e-mail through MailJet REST API",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/mailjet-api/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/mailjet-api/issues"
+                }
+            }
+        ]
+    }
+}
