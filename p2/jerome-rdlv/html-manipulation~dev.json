@@ -42,6 +42,47 @@
                     "source": "https://github.com/jerome-rdlv/html-manipulation/tree/master",
                     "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
                 }
+            },
+            {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "dev-php7",
+                "version_normalized": "dev-php7",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "daf34afe8cf37719522b31aee0449eeac4335d8e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/daf34afe8cf37719522b31aee0449eeac4335d8e",
+                    "reference": "daf34afe8cf37719522b31aee0449eeac4335d8e",
+                    "shasum": ""
+                },
+                "require": {
+                    "masterminds/html5": "^2.7",
+                    "php": ">=7.0",
+                    "symfony/css-selector": "^3.4"
+                },
+                "time": "2022-10-05T19:33:12+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/php7",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
             }
         ]
     }
