@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/custom-scripts.git",
-                    "reference": "70bddccf92a7baedaaaee6563040a8854928b0b5"
+                    "reference": "9d930ddffbefaa52e43eaa68dfc2519d7cff60f8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/custom-scripts/zipball/70bddccf92a7baedaaaee6563040a8854928b0b5",
-                    "reference": "70bddccf92a7baedaaaee6563040a8854928b0b5",
+                    "url": "https://api.github.com/repos/jerome-rdlv/custom-scripts/zipball/9d930ddffbefaa52e43eaa68dfc2519d7cff60f8",
+                    "reference": "9d930ddffbefaa52e43eaa68dfc2519d7cff60f8",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.4"
                 },
-                "time": "2022-05-10T08:24:45+00:00",
+                "time": "2022-10-18T16:20:55+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
@@ -32,6 +32,7 @@
                     }
                 ],
                 "description": "Insert custom scripts in pages",
+                "homepage": "https://github.com/jerome-rdlv/custom-scripts",
                 "support": {
                     "source": "https://github.com/jerome-rdlv/custom-scripts/tree/master",
                     "issues": "https://github.com/jerome-rdlv/custom-scripts/issues"
