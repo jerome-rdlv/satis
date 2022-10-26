@@ -37,7 +37,7 @@
                 "description": "Fully customise WordPress edit screens with powerful fields.",
                 "homepage": "http://www.advancedcustomfields.com/",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/tree/master",
+                    "source": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/tree/6.0.3",
                     "issues": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/issues"
                 }
             }

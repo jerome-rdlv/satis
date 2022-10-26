@@ -2028,6 +2028,45 @@
                     "source": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/tree/6.0.2",
                     "issues": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/issues"
                 }
+            },
+            {
+                "name": "jerome-rdlv/advanced-custom-fields-pro",
+                "version": "6.0.3",
+                "version_normalized": "6.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:jerome-rdlv/advanced-custom-fields-pro.git",
+                    "reference": "2d5cbe6bf70ec1fb22ba5aa39844288ae436886d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/advanced-custom-fields-pro/zipball/2d5cbe6bf70ec1fb22ba5aa39844288ae436886d",
+                    "reference": "2d5cbe6bf70ec1fb22ba5aa39844288ae436886d",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2022-10-19T06:23:17+00:00",
+                "type": "wordpress-muplugin",
+                "extra": {
+                    "installer-name": "acf-pro"
+                },
+                "license": [
+                    "private"
+                ],
+                "authors": [
+                    {
+                        "name": "Elliot Condon",
+                        "homepage": "http://www.elliotcondon.com/"
+                    }
+                ],
+                "description": "Fully customise WordPress edit screens with powerful fields.",
+                "homepage": "http://www.advancedcustomfields.com/",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/tree/6.0.3",
+                    "issues": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/issues"
+                }
             }
         ]
     }
