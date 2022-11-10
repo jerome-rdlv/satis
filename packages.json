@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$4d39a5cc9046664885a1bf0b9c34b075733b4447.json": {
-            "sha1": "4d39a5cc9046664885a1bf0b9c34b075733b4447"
+        "include/all$a356d6d63803fa2c68f408b9f58619d24067c810.json": {
+            "sha1": "a356d6d63803fa2c68f408b9f58619d24067c810"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -20,6 +20,7 @@
         "jerome-rdlv/mailjet-api",
         "jerome-rdlv/post-order",
         "jerome-rdlv/registry",
+        "jerome-rdlv/sywo",
         "jerome-rdlv/webp-images",
         "jerome-rdlv/wp-translation-update"
     ]

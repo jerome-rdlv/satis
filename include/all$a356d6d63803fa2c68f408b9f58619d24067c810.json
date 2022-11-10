@@ -3206,6 +3206,52 @@
                 }
             }
         },
+        "jerome-rdlv/sywo": {
+            "dev-develop": {
+                "name": "jerome-rdlv/sywo",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/sywo.git",
+                    "reference": "8c1ebf0023a24347a22055b8676ce41bc02b46e5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/sywo/zipball/8c1ebf0023a24347a22055b8676ce41bc02b46e5",
+                    "reference": "8c1ebf0023a24347a22055b8676ce41bc02b46e5",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/console": "^5.0",
+                    "symfony/finder": "^5.0",
+                    "wp-cli/i18n-command": "^2.0",
+                    "wp-cli/wp-cli": "^2.0"
+                },
+                "time": "2022-04-28T21:35:24+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\Sywo\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Symfony in WordPress integration",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/sywo/tree/develop",
+                    "issues": "https://github.com/jerome-rdlv/sywo/issues"
+                }
+            }
+        },
         "jerome-rdlv/webp-images": {
             "dev-master": {
                 "name": "jerome-rdlv/webp-images",
