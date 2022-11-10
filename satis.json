@@ -3,20 +3,21 @@
     "homepage": "https://jerome-rdlv.github.io/satis/",
     "repositories": [
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/advanced-custom-fields-pro.git" },
-        { "type": "vcs", "url": "git@github.com:jerome-rdlv/cpt-parent.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/allow-svg.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/boond-manager.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/cachebust-assets.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/cf7-tac-recaptcha.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/cpt-parent.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/custom-scripts.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/email-smtp.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/html-manipulation.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/inflexyon.payment.git"},
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/mailjet-api.git" },
-        { "type": "vcs", "url": "git@github.com:jerome-rdlv/registry.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/post-order.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/registry.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/sywo.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/webp-images.git" },
-        { "type": "vcs", "url": "git@github.com:jerome-rdlv/boond-manager.git" },
-        { "type": "vcs", "url": "git@github.com:jerome-rdlv/wp-translation-update.git" },
-        { "type": "vcs", "url": "git@github.com:jerome-rdlv/inflexyon.payment.git"}
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/wp-translation-update.git" }
     ],
     "require-all": true
 }
