@@ -2157,6 +2157,45 @@
                     "issues": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/issues"
                 }
             },
+            "6.0.5": {
+                "name": "jerome-rdlv/advanced-custom-fields-pro",
+                "version": "6.0.5",
+                "version_normalized": "6.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:jerome-rdlv/advanced-custom-fields-pro.git",
+                    "reference": "ef0149c580dc32beecfb32e3de87de05ce71d1a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/advanced-custom-fields-pro/zipball/ef0149c580dc32beecfb32e3de87de05ce71d1a3",
+                    "reference": "ef0149c580dc32beecfb32e3de87de05ce71d1a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2022-11-19T09:07:13+00:00",
+                "type": "wordpress-muplugin",
+                "extra": {
+                    "installer-name": "acf-pro"
+                },
+                "license": [
+                    "private"
+                ],
+                "authors": [
+                    {
+                        "name": "Elliot Condon",
+                        "homepage": "http://www.elliotcondon.com/"
+                    }
+                ],
+                "description": "Fully customise WordPress edit screens with powerful fields.",
+                "homepage": "http://www.advancedcustomfields.com/",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/tree/6.0.5",
+                    "issues": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/issues"
+                }
+            },
             "dev-master": {
                 "name": "jerome-rdlv/advanced-custom-fields-pro",
                 "version": "dev-master",
@@ -2164,18 +2203,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:jerome-rdlv/advanced-custom-fields-pro.git",
-                    "reference": "96e43ab45dc5d36b925d923bd7befd46b05de009"
+                    "reference": "ef0149c580dc32beecfb32e3de87de05ce71d1a3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/advanced-custom-fields-pro/zipball/96e43ab45dc5d36b925d923bd7befd46b05de009",
-                    "reference": "96e43ab45dc5d36b925d923bd7befd46b05de009",
+                    "url": "https://api.github.com/repos/jerome-rdlv/advanced-custom-fields-pro/zipball/ef0149c580dc32beecfb32e3de87de05ce71d1a3",
+                    "reference": "ef0149c580dc32beecfb32e3de87de05ce71d1a3",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2022-11-09T07:25:19+00:00",
+                "time": "2022-11-19T09:07:13+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "extra": {
@@ -2193,7 +2232,7 @@
                 "description": "Fully customise WordPress edit screens with powerful fields.",
                 "homepage": "http://www.advancedcustomfields.com/",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/tree/6.0.4",
+                    "source": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/tree/6.0.5",
                     "issues": "https://github.com/jerome-rdlv/advanced-custom-fields-pro/issues"
                 }
             }
