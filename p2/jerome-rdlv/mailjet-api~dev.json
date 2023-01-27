@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/mailjet-api.git",
-                    "reference": "d940527d1ae98013cda173f1aafe5b6f18ddcce7"
+                    "reference": "c3375e6ae158d4a2d76d0170ea3d64de2ebced33"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/mailjet-api/zipball/d940527d1ae98013cda173f1aafe5b6f18ddcce7",
-                    "reference": "d940527d1ae98013cda173f1aafe5b6f18ddcce7",
+                    "url": "https://api.github.com/repos/jerome-rdlv/mailjet-api/zipball/c3375e6ae158d4a2d76d0170ea3d64de2ebced33",
+                    "reference": "c3375e6ae158d4a2d76d0170ea3d64de2ebced33",
                     "shasum": ""
                 },
                 "require": {
                     "mailjet/mailjet-apiv3-php": "^1.5"
                 },
-                "time": "2022-09-29T15:03:32+00:00",
+                "time": "2023-01-26T16:58:50+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
