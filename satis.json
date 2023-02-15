@@ -16,6 +16,7 @@
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/post-order.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/registry.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/sywo.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/translation-update.git" }
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/webp-images.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/wp-translation-update.git" }
     ],
