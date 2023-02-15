@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$4eb1bb9f52bd3f55f99585ae9d271eafd53bba44.json": {
-            "sha1": "4eb1bb9f52bd3f55f99585ae9d271eafd53bba44"
+        "include/all$bfc23d221111be0a428a07748c0d2d76a83b7616.json": {
+            "sha1": "bfc23d221111be0a428a07748c0d2d76a83b7616"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -21,6 +21,7 @@
         "jerome-rdlv/post-order",
         "jerome-rdlv/registry",
         "jerome-rdlv/sywo",
+        "jerome-rdlv/translation-update",
         "jerome-rdlv/webp-images",
         "jerome-rdlv/wp-translation-update"
     ]

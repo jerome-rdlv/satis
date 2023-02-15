@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "jerome-rdlv/translation-update": [
+            {
+                "name": "jerome-rdlv/translation-update",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/translation-update.git",
+                    "reference": "76122d2bb72e9ea0d2b9abb7097cd572f1617f1e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/translation-update/zipball/76122d2bb72e9ea0d2b9abb7097cd572f1617f1e",
+                    "reference": "76122d2bb72e9ea0d2b9abb7097cd572f1617f1e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0"
+                },
+                "time": "2023-02-15T17:29:40+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "A wp-cli command to extract texts from a plugin or theme, and update POT, PO and MO files",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/translation-update/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/translation-update/issues"
+                }
+            }
+        ]
+    }
+}
