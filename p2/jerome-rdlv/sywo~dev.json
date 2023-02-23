@@ -8,26 +8,31 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/sywo.git",
-                    "reference": "8c1ebf0023a24347a22055b8676ce41bc02b46e5"
+                    "reference": "3b88a6b649fa2a0fb58daa44bcfe276ac9933bef"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/sywo/zipball/8c1ebf0023a24347a22055b8676ce41bc02b46e5",
-                    "reference": "8c1ebf0023a24347a22055b8676ce41bc02b46e5",
+                    "url": "https://api.github.com/repos/jerome-rdlv/sywo/zipball/3b88a6b649fa2a0fb58daa44bcfe276ac9933bef",
+                    "reference": "3b88a6b649fa2a0fb58daa44bcfe276ac9933bef",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/console": "^5.0",
-                    "symfony/finder": "^5.0",
+                    "symfony/console": "^5.4",
+                    "symfony/finder": "^5.4",
+                    "symfony/http-kernel": "^5.4",
                     "wp-cli/i18n-command": "^2.0",
                     "wp-cli/wp-cli": "^2.0"
                 },
-                "time": "2022-04-28T21:35:24+00:00",
+                "suggest": {
+                    "symfony/framework-bundle": "For tight integration between symfony components",
+                    "symfony/translation": "For translation update command"
+                },
+                "time": "2023-02-22T19:01:36+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-4": {
-                        "Rdlv\\WordPress\\Sywo\\": ""
+                        "Rdlv\\WordPress\\Sywo\\": "src"
                     }
                 },
                 "license": [
