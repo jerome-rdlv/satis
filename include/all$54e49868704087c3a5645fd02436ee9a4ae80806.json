@@ -8,18 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:jerome-rdlv/inflexyon.payment.git",
-                    "reference": "f0267af1553a7bc255caa4afe586d8ff6e7747e9"
+                    "reference": "9b89e0a74c5d7103631105937020ce02a5e5d40d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/inflexyon.payment/zipball/f0267af1553a7bc255caa4afe586d8ff6e7747e9",
-                    "reference": "f0267af1553a7bc255caa4afe586d8ff6e7747e9",
+                    "url": "https://api.github.com/repos/jerome-rdlv/inflexyon.payment/zipball/9b89e0a74c5d7103631105937020ce02a5e5d40d",
+                    "reference": "9b89e0a74c5d7103631105937020ce02a5e5d40d",
                     "shasum": ""
                 },
                 "require": {
+                    "oscarotero/env": "^2.0",
                     "php": ">=7.3"
                 },
-                "time": "2022-12-07T21:07:08+00:00",
+                "time": "2023-03-24T19:13:57+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -2868,12 +2869,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
-                    "reference": "7fecbf66b0402a52abab6026c4591264211e8a01"
+                    "reference": "7f5570c88da54ef0a43ece6f3638dbd0c93aeec1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/7fecbf66b0402a52abab6026c4591264211e8a01",
-                    "reference": "7fecbf66b0402a52abab6026c4591264211e8a01",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/7f5570c88da54ef0a43ece6f3638dbd0c93aeec1",
+                    "reference": "7f5570c88da54ef0a43ece6f3638dbd0c93aeec1",
                     "shasum": ""
                 },
                 "require": {
@@ -2881,10 +2882,11 @@
                 },
                 "require-dev": {
                     "mikey179/vfsstream": "^1.6",
+                    "oscarotero/env": "^2.0",
                     "phpstan/phpstan": "^1.6",
                     "phpunit/phpunit": "^8.0"
                 },
-                "time": "2022-05-24T09:26:08+00:00",
+                "time": "2023-03-24T16:47:33+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -3041,18 +3043,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/email-smtp.git",
-                    "reference": "a42a166384909e1b076c46ed9767d7972d71ed41"
+                    "reference": "4b80ec6a1f29e117a602c80598629b73ec99b314"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/a42a166384909e1b076c46ed9767d7972d71ed41",
-                    "reference": "a42a166384909e1b076c46ed9767d7972d71ed41",
+                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/4b80ec6a1f29e117a602c80598629b73ec99b314",
+                    "reference": "4b80ec6a1f29e117a602c80598629b73ec99b314",
                     "shasum": ""
                 },
                 "require": {
+                    "oscarotero/env": "^2.0",
                     "php": ">=7.0"
                 },
-                "time": "2022-10-11T09:49:37+00:00",
+                "time": "2023-03-24T16:49:31+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -3382,20 +3385,25 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/translation-update.git",
-                    "reference": "76122d2bb72e9ea0d2b9abb7097cd572f1617f1e"
+                    "reference": "8552b477d55935c00e84aaefeb28070558029402"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/translation-update/zipball/76122d2bb72e9ea0d2b9abb7097cd572f1617f1e",
-                    "reference": "76122d2bb72e9ea0d2b9abb7097cd572f1617f1e",
+                    "url": "https://api.github.com/repos/jerome-rdlv/translation-update/zipball/8552b477d55935c00e84aaefeb28070558029402",
+                    "reference": "8552b477d55935c00e84aaefeb28070558029402",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.0"
                 },
-                "time": "2023-02-15T17:29:40+00:00",
+                "time": "2023-03-24T18:43:58+00:00",
                 "default-branch": true,
-                "type": "wordpress-muplugin",
+                "type": "library",
+                "autoload": {
+                    "files": [
+                        "index.php"
+                    ]
+                },
                 "license": [
                     "MIT"
                 ],
