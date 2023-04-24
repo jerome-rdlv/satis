@@ -13,6 +13,7 @@
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/html-manipulation.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/inflexyon.payment.git"},
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/mailjet-api.git" },
+        { "type": "vcs", "url": "git@github.com:jerome-rdlv/outgoing-ip.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/post-order.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/registry.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/sywo.git" },
