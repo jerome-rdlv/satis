@@ -3025,12 +3025,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
-                    "reference": "d272d4653bd3dd5bdfdc084428a2464c03cf8126"
+                    "reference": "d1caba6ee71e4173c9a59498e103568d5383e13b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/d272d4653bd3dd5bdfdc084428a2464c03cf8126",
-                    "reference": "d272d4653bd3dd5bdfdc084428a2464c03cf8126",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/d1caba6ee71e4173c9a59498e103568d5383e13b",
+                    "reference": "d1caba6ee71e4173c9a59498e103568d5383e13b",
                     "shasum": ""
                 },
                 "require": {
@@ -3042,7 +3042,7 @@
                     "phpstan/phpstan": "^1.6",
                     "phpunit/phpunit": "^8.0"
                 },
-                "time": "2023-04-04T13:57:35+00:00",
+                "time": "2023-07-24T15:18:52+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -3622,18 +3622,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/webp-images.git",
-                    "reference": "a4443f089f460f5165fa865e49e5daf3b6c9d1e4"
+                    "reference": "b2ab076235ab5816c8af22f3322c651469b1c858"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/a4443f089f460f5165fa865e49e5daf3b6c9d1e4",
-                    "reference": "a4443f089f460f5165fa865e49e5daf3b6c9d1e4",
+                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/b2ab076235ab5816c8af22f3322c651469b1c858",
+                    "reference": "b2ab076235ab5816c8af22f3322c651469b1c858",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.0"
                 },
-                "time": "2021-03-17T10:21:11+00:00",
+                "time": "2023-07-24T15:18:02+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
