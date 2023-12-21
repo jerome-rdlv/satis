@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/sywo.git",
-                    "reference": "3b88a6b649fa2a0fb58daa44bcfe276ac9933bef"
+                    "reference": "c7a7551ebce19267c98ec61363049da213b78731"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/sywo/zipball/3b88a6b649fa2a0fb58daa44bcfe276ac9933bef",
-                    "reference": "3b88a6b649fa2a0fb58daa44bcfe276ac9933bef",
+                    "url": "https://api.github.com/repos/jerome-rdlv/sywo/zipball/c7a7551ebce19267c98ec61363049da213b78731",
+                    "reference": "c7a7551ebce19267c98ec61363049da213b78731",
                     "shasum": ""
                 },
                 "require": {
@@ -27,7 +27,7 @@
                     "symfony/framework-bundle": "For tight integration between symfony components",
                     "symfony/translation": "For translation update command"
                 },
-                "time": "2023-02-22T19:01:36+00:00",
+                "time": "2023-12-20T18:36:30+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
