@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:jerome-rdlv/inflexyon.payment.git",
-                    "reference": "54c488885d1dab521d0dfa8448ffdddbb93e2f08"
+                    "reference": "1ce352c47635528ae3882b3ee2d7408af88aad9a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/inflexyon.payment/zipball/54c488885d1dab521d0dfa8448ffdddbb93e2f08",
-                    "reference": "54c488885d1dab521d0dfa8448ffdddbb93e2f08",
+                    "url": "https://api.github.com/repos/jerome-rdlv/inflexyon.payment/zipball/1ce352c47635528ae3882b3ee2d7408af88aad9a",
+                    "reference": "1ce352c47635528ae3882b3ee2d7408af88aad9a",
                     "shasum": ""
                 },
                 "require": {
@@ -21,7 +21,7 @@
                     "oscarotero/env": "^2.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-12-05T10:07:39+00:00",
+                "time": "2024-01-17T17:32:56+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
