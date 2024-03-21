@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/html-manipulation.git",
-                    "reference": "20cc84210dd442f5bac54e622fd038e4cbd7a29e"
+                    "reference": "c433c4b12b031670d07bb7bc30318a7f1cb438d7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/20cc84210dd442f5bac54e622fd038e4cbd7a29e",
-                    "reference": "20cc84210dd442f5bac54e622fd038e4cbd7a29e",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/c433c4b12b031670d07bb7bc30318a7f1cb438d7",
+                    "reference": "c433c4b12b031670d07bb7bc30318a7f1cb438d7",
                     "shasum": ""
                 },
                 "require": {
-                    "masterminds/html5": "^2.7",
+                    "masterminds/html5": "^2.8",
                     "php": ">=8.0",
-                    "symfony/css-selector": "^3.4"
+                    "symfony/css-selector": "^6.4"
                 },
-                "time": "2023-09-27T08:42:44+00:00",
+                "time": "2024-03-21T10:08:39+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
