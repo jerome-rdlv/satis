@@ -3241,12 +3241,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/html-manipulation.git",
-                    "reference": "c433c4b12b031670d07bb7bc30318a7f1cb438d7"
+                    "reference": "cb4a6d41d6cf72f1f6d6620416853b1bad826169"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/c433c4b12b031670d07bb7bc30318a7f1cb438d7",
-                    "reference": "c433c4b12b031670d07bb7bc30318a7f1cb438d7",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/cb4a6d41d6cf72f1f6d6620416853b1bad826169",
+                    "reference": "cb4a6d41d6cf72f1f6d6620416853b1bad826169",
                     "shasum": ""
                 },
                 "require": {
@@ -3254,7 +3254,7 @@
                     "php": ">=8.0",
                     "symfony/css-selector": "^6.4"
                 },
-                "time": "2024-03-21T10:08:39+00:00",
+                "time": "2024-03-22T09:35:12+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
