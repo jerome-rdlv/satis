@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/custom-scripts.git",
-                    "reference": "9d930ddffbefaa52e43eaa68dfc2519d7cff60f8"
+                    "reference": "43083c8c012cd8e0cda40e0bf99bc47c37d138ed"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/custom-scripts/zipball/9d930ddffbefaa52e43eaa68dfc2519d7cff60f8",
-                    "reference": "9d930ddffbefaa52e43eaa68dfc2519d7cff60f8",
+                    "url": "https://api.github.com/repos/jerome-rdlv/custom-scripts/zipball/43083c8c012cd8e0cda40e0bf99bc47c37d138ed",
+                    "reference": "43083c8c012cd8e0cda40e0bf99bc47c37d138ed",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.4"
                 },
-                "time": "2022-10-18T16:20:55+00:00",
+                "time": "2024-04-24T13:28:46+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
