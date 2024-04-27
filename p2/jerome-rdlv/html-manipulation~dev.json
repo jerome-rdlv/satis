@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/html-manipulation.git",
-                    "reference": "c5b94807675aa2a823ecc59f0ac57c38c46ad3cf"
+                    "reference": "e4c08b25ea6a590e2dd041c6b8227a92c2f74814"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/c5b94807675aa2a823ecc59f0ac57c38c46ad3cf",
-                    "reference": "c5b94807675aa2a823ecc59f0ac57c38c46ad3cf",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/e4c08b25ea6a590e2dd041c6b8227a92c2f74814",
+                    "reference": "e4c08b25ea6a590e2dd041c6b8227a92c2f74814",
                     "shasum": ""
                 },
                 "require": {
@@ -24,7 +24,7 @@
                 "suggest": {
                     "masterminds/html5": "Allows correct HTML5 (and SVG) parsing, but slower than native parser."
                 },
-                "time": "2024-04-08T13:48:15+00:00",
+                "time": "2024-04-26T15:36:10+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
