@@ -8,25 +8,27 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/sywo.git",
-                    "reference": "3f14c74dad5e20b5e3930ee2f5510b2a69ff04a3"
+                    "reference": "ae5f26ea5958866d5f45b792c82b1c068371fa15"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/sywo/zipball/3f14c74dad5e20b5e3930ee2f5510b2a69ff04a3",
-                    "reference": "3f14c74dad5e20b5e3930ee2f5510b2a69ff04a3",
+                    "url": "https://api.github.com/repos/jerome-rdlv/sywo/zipball/ae5f26ea5958866d5f45b792c82b1c068371fa15",
+                    "reference": "ae5f26ea5958866d5f45b792c82b1c068371fa15",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/console": "^5.4",
-                    "symfony/finder": "^5.4",
-                    "symfony/http-kernel": "^5.4"
+                    "php": ">=8.1.0",
+                    "symfony/config": "^6.4",
+                    "symfony/console": "^6.4",
+                    "symfony/finder": "^6.4",
+                    "symfony/http-kernel": "^6.4"
                 },
                 "suggest": {
                     "symfony/framework-bundle": "For tight integration between symfony components",
                     "symfony/translation": "For translation update command",
                     "symfony/web-profiler-bundle": "For easy debug and profiling"
                 },
-                "time": "2023-12-21T19:29:11+00:00",
+                "time": "2024-06-07T16:23:40+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -45,7 +47,7 @@
                 ],
                 "description": "Symfony in WordPress integration",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/sywo/tree/develop",
+                    "source": "https://github.com/jerome-rdlv/sywo/tree/php8.1",
                     "issues": "https://github.com/jerome-rdlv/sywo/issues"
                 }
             }
