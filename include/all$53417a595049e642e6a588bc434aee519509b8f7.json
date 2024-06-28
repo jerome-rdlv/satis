@@ -3524,12 +3524,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/sywo.git",
-                    "reference": "ae5f26ea5958866d5f45b792c82b1c068371fa15"
+                    "reference": "507574ef0c9358250eb779ff74c6ed381201b43e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/sywo/zipball/ae5f26ea5958866d5f45b792c82b1c068371fa15",
-                    "reference": "ae5f26ea5958866d5f45b792c82b1c068371fa15",
+                    "url": "https://api.github.com/repos/jerome-rdlv/sywo/zipball/507574ef0c9358250eb779ff74c6ed381201b43e",
+                    "reference": "507574ef0c9358250eb779ff74c6ed381201b43e",
                     "shasum": ""
                 },
                 "require": {
@@ -3544,7 +3544,7 @@
                     "symfony/translation": "For translation update command",
                     "symfony/web-profiler-bundle": "For easy debug and profiling"
                 },
-                "time": "2024-06-07T16:23:40+00:00",
+                "time": "2024-06-27T19:52:14+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -3563,7 +3563,7 @@
                 ],
                 "description": "Symfony in WordPress integration",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/sywo/tree/php8.1",
+                    "source": "https://github.com/jerome-rdlv/sywo/tree/develop",
                     "issues": "https://github.com/jerome-rdlv/sywo/issues"
                 }
             }
