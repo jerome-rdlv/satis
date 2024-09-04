@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/allow-svg.git",
-                    "reference": "975fe9bb4f327816f06194961eb2112799c13964"
+                    "reference": "084be2bf91df1d827410948a601ae54a2b38077d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/allow-svg/zipball/975fe9bb4f327816f06194961eb2112799c13964",
-                    "reference": "975fe9bb4f327816f06194961eb2112799c13964",
+                    "url": "https://api.github.com/repos/jerome-rdlv/allow-svg/zipball/084be2bf91df1d827410948a601ae54a2b38077d",
+                    "reference": "084be2bf91df1d827410948a601ae54a2b38077d",
                     "shasum": ""
                 },
                 "require": {
                     "ext-simplexml": "*",
                     "php": ">=5.4"
                 },
-                "time": "2024-06-07T16:33:16+00:00",
+                "time": "2024-09-03T09:44:05+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
