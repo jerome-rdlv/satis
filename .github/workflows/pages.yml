@@ -39,7 +39,7 @@ jobs:
           sed -i -e 's/\(pear-pear\.horde\.org\/.*\)/\L\1/' public/**/*.json
           sed -i -e 's/"type": "file",/"type": "tar",/' public/**/*.json
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.6.3
+        uses: JamesIves/github-pages-deploy-action@v4.6.4
         with:
           token: ${{ secrets.SATIS_GITHUB_ACCESS }}
           branch: gh-pages # The branch the action should deploy to.
