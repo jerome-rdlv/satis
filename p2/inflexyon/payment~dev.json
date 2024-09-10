@@ -3,8 +3,8 @@
         "inflexyon/payment": [
             {
                 "name": "inflexyon/payment",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:jerome-rdlv/inflexyon.payment.git",
@@ -39,7 +39,7 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/inflexyon.payment/tree/master",
+                    "source": "https://github.com/jerome-rdlv/inflexyon.payment/tree/main",
                     "issues": "https://github.com/jerome-rdlv/inflexyon.payment/issues"
                 }
             }
