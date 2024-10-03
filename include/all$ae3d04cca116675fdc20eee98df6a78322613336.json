@@ -3619,18 +3619,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/webp-images.git",
-                    "reference": "c7492dbd7eef503d9761bf3a695521cef95cd811"
+                    "reference": "655335b29cb0e77dcdca258dd8fd0ecfe516f091"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/c7492dbd7eef503d9761bf3a695521cef95cd811",
-                    "reference": "c7492dbd7eef503d9761bf3a695521cef95cd811",
+                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/655335b29cb0e77dcdca258dd8fd0ecfe516f091",
+                    "reference": "655335b29cb0e77dcdca258dd8fd0ecfe516f091",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.0"
                 },
-                "time": "2024-10-01T16:13:33+00:00",
+                "time": "2024-10-02T14:43:50+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
