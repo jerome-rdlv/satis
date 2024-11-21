@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/translation-update.git",
-                    "reference": "871f54cc05ae7192dfbcfccf183deaa714285172"
+                    "reference": "a886c9270c116770d4ba8a5e93c14c36e98e039b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/translation-update/zipball/871f54cc05ae7192dfbcfccf183deaa714285172",
-                    "reference": "871f54cc05ae7192dfbcfccf183deaa714285172",
+                    "url": "https://api.github.com/repos/jerome-rdlv/translation-update/zipball/a886c9270c116770d4ba8a5e93c14c36e98e039b",
+                    "reference": "a886c9270c116770d4ba8a5e93c14c36e98e039b",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.0"
                 },
-                "time": "2024-03-05T19:19:06+00:00",
+                "time": "2024-11-20T09:46:41+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
