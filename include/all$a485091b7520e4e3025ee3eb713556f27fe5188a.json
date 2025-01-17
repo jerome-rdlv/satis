@@ -3485,15 +3485,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/registry.git",
-                    "reference": "793ae128b9d850fcadc31f3b020b4fe2020688ac"
+                    "reference": "141bb5f5c4e52c18c7d8f54b13c87efabcf9f354"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/registry/zipball/793ae128b9d850fcadc31f3b020b4fe2020688ac",
-                    "reference": "793ae128b9d850fcadc31f3b020b4fe2020688ac",
+                    "url": "https://api.github.com/repos/jerome-rdlv/registry/zipball/141bb5f5c4e52c18c7d8f54b13c87efabcf9f354",
+                    "reference": "141bb5f5c4e52c18c7d8f54b13c87efabcf9f354",
                     "shasum": ""
                 },
-                "time": "2022-05-10T15:05:01+00:00",
+                "time": "2025-01-16T19:59:40+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
