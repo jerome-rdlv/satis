@@ -3619,20 +3619,26 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/webp-images.git",
-                    "reference": "4d7922d43024bcaf71a950556067cccd7359c446"
+                    "reference": "b8594b56e6566003f9aa13808ec17f67b8b5da4c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/4d7922d43024bcaf71a950556067cccd7359c446",
-                    "reference": "4d7922d43024bcaf71a950556067cccd7359c446",
+                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/b8594b56e6566003f9aa13808ec17f67b8b5da4c",
+                    "reference": "b8594b56e6566003f9aa13808ec17f67b8b5da4c",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=7.0"
+                    "php": ">=7.0",
+                    "symfony/finder": "^7.0"
                 },
-                "time": "2024-12-12T13:05:22+00:00",
+                "time": "2025-02-14T16:34:29+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\WebpImages\\": "src/"
+                    }
+                },
                 "license": [
                     "MIT"
                 ],
