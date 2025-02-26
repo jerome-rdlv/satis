@@ -3241,23 +3241,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/html-manipulation.git",
-                    "reference": "69a3fa045610282ceee918f30639272162c8cd4b"
+                    "reference": "017b12b59012ef8e60226540f8d5500a4fbfbed4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/69a3fa045610282ceee918f30639272162c8cd4b",
-                    "reference": "69a3fa045610282ceee918f30639272162c8cd4b",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/017b12b59012ef8e60226540f8d5500a4fbfbed4",
+                    "reference": "017b12b59012ef8e60226540f8d5500a4fbfbed4",
                     "shasum": ""
                 },
                 "require": {
                     "ext-libxml": "*",
-                    "php": ">=8.0",
-                    "symfony/css-selector": "^6.4"
+                    "php": ">=7.4",
+                    "symfony/css-selector": "^3.4|^6.4"
                 },
                 "suggest": {
                     "masterminds/html5": "Allows correct HTML5 (and SVG) parsing, but slower than native parser."
                 },
-                "time": "2025-02-18T11:13:00+00:00",
+                "time": "2025-02-26T09:53:02+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -3619,19 +3619,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/webp-images.git",
-                    "reference": "a66da33c7324575b55daa09a2f47d58da7f99f3b"
+                    "reference": "6ee2c7ca8695d37c244821e56e3cd659840b4323"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/a66da33c7324575b55daa09a2f47d58da7f99f3b",
-                    "reference": "a66da33c7324575b55daa09a2f47d58da7f99f3b",
+                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/6ee2c7ca8695d37c244821e56e3cd659840b4323",
+                    "reference": "6ee2c7ca8695d37c244821e56e3cd659840b4323",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=7.0",
-                    "symfony/finder": "^7.0"
+                    "php": ">=7.4",
+                    "symfony/finder": "^5.0|^6.0|^7.0"
                 },
-                "time": "2025-02-25T19:04:14+00:00",
+                "time": "2025-02-26T09:43:52+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -3651,6 +3651,47 @@
                 "description": "Add a cron job that creates WebP versions of all uploaded images",
                 "support": {
                     "source": "https://github.com/jerome-rdlv/webp-images/tree/master",
+                    "issues": "https://github.com/jerome-rdlv/webp-images/issues"
+                }
+            },
+            "dev-php7": {
+                "name": "jerome-rdlv/webp-images",
+                "version": "dev-php7",
+                "version_normalized": "dev-php7",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/webp-images.git",
+                    "reference": "dfad046047e1408e54ea57e22b14b00f4da38c9d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/dfad046047e1408e54ea57e22b14b00f4da38c9d",
+                    "reference": "dfad046047e1408e54ea57e22b14b00f4da38c9d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4",
+                    "symfony/finder": "^5.4"
+                },
+                "time": "2025-02-26T09:22:07+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\WebpImages\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add a cron job that creates WebP versions of all uploaded images",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/webp-images/tree/php7",
                     "issues": "https://github.com/jerome-rdlv/webp-images/issues"
                 }
             }
