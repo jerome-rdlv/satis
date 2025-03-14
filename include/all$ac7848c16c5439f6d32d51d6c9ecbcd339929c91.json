@@ -3490,18 +3490,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/post-order.git",
-                    "reference": "95ae0de371b236d3eb2915ed1368731df99aafc7"
+                    "reference": "546b8ecd85c1448c6e8d839025ccd470a3f54e67"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/95ae0de371b236d3eb2915ed1368731df99aafc7",
-                    "reference": "95ae0de371b236d3eb2915ed1368731df99aafc7",
+                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/546b8ecd85c1448c6e8d839025ccd470a3f54e67",
+                    "reference": "546b8ecd85c1448c6e8d839025ccd470a3f54e67",
                     "shasum": ""
                 },
-                "require": {
-                    "composer/installers": "~1.0"
-                },
-                "time": "2022-11-03T20:13:36+00:00",
+                "time": "2025-03-14T09:14:14+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
