@@ -3278,10 +3278,10 @@
                     "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
                 }
             },
-            "dev-master": {
+            "1.1.0": {
                 "name": "jerome-rdlv/html-manipulation",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/html-manipulation.git",
@@ -3302,7 +3302,6 @@
                     "masterminds/html5": "Allows correct HTML5 (and SVG) parsing, but slower than native parser."
                 },
                 "time": "2025-03-12T11:42:43+00:00",
-                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-4": {
@@ -3319,7 +3318,104 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/master",
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/1.1.0",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
+            },
+            "2.0.0": {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "571f52be797cf7739522427e33c2ed3b66201d58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/571f52be797cf7739522427e33c2ed3b66201d58",
+                    "reference": "571f52be797cf7739522427e33c2ed3b66201d58",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "php": ">=8.4 <9"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^12.0"
+                },
+                "time": "2025-04-01T19:00:47+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\Test\\": "test"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/2.0.0",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
+            },
+            "dev-master": {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "571f52be797cf7739522427e33c2ed3b66201d58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/571f52be797cf7739522427e33c2ed3b66201d58",
+                    "reference": "571f52be797cf7739522427e33c2ed3b66201d58",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "php": ">=8.4 <9"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^12.0"
+                },
+                "time": "2025-04-01T19:00:47+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\Test\\": "test"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/2.0.0",
                     "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
                 }
             },
@@ -3610,6 +3706,46 @@
             }
         },
         "jerome-rdlv/translation-update": {
+            "1.0.0": {
+                "name": "jerome-rdlv/translation-update",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/translation-update.git",
+                    "reference": "a886c9270c116770d4ba8a5e93c14c36e98e039b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/translation-update/zipball/a886c9270c116770d4ba8a5e93c14c36e98e039b",
+                    "reference": "a886c9270c116770d4ba8a5e93c14c36e98e039b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0"
+                },
+                "time": "2024-11-20T09:46:41+00:00",
+                "type": "library",
+                "autoload": {
+                    "files": [
+                        "index.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "A wp-cli command to extract texts from a plugin or theme, and update POT, PO and MO files",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/translation-update/tree/1.0.0",
+                    "issues": "https://github.com/jerome-rdlv/translation-update/issues"
+                }
+            },
             "dev-master": {
                 "name": "jerome-rdlv/translation-update",
                 "version": "dev-master",
@@ -3647,7 +3783,7 @@
                 ],
                 "description": "A wp-cli command to extract texts from a plugin or theme, and update POT, PO and MO files",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/translation-update/tree/master",
+                    "source": "https://github.com/jerome-rdlv/translation-update/tree/1.0.0",
                     "issues": "https://github.com/jerome-rdlv/translation-update/issues"
                 }
             }

@@ -38,7 +38,7 @@
                 ],
                 "description": "A wp-cli command to extract texts from a plugin or theme, and update POT, PO and MO files",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/translation-update/tree/master",
+                    "source": "https://github.com/jerome-rdlv/translation-update/tree/1.0.0",
                     "issues": "https://github.com/jerome-rdlv/translation-update/issues"
                 }
             }

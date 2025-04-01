@@ -44,6 +44,98 @@
                     "source": "https://github.com/jerome-rdlv/html-manipulation/tree/1.0",
                     "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
                 }
+            },
+            {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "da8b5d178dd6004e6be18062647cea5161658a9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/da8b5d178dd6004e6be18062647cea5161658a9e",
+                    "reference": "da8b5d178dd6004e6be18062647cea5161658a9e",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-libxml": "*",
+                    "php": ">=8.0",
+                    "symfony/css-selector": "^3.4|^6.4"
+                },
+                "suggest": {
+                    "masterminds/html5": "Allows correct HTML5 (and SVG) parsing, but slower than native parser."
+                },
+                "time": "2025-03-12T11:42:43+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/1.1.0",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
+            },
+            {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "571f52be797cf7739522427e33c2ed3b66201d58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/571f52be797cf7739522427e33c2ed3b66201d58",
+                    "reference": "571f52be797cf7739522427e33c2ed3b66201d58",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "php": ">=8.4 <9"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^12.0"
+                },
+                "time": "2025-04-01T19:00:47+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\Test\\": "test"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/2.0.0",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
             }
         ]
     }
