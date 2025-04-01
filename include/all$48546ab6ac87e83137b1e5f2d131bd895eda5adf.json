@@ -3370,19 +3370,19 @@
                     "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
                 }
             },
-            "dev-master": {
+            "2.0.1": {
                 "name": "jerome-rdlv/html-manipulation",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/html-manipulation.git",
-                    "reference": "571f52be797cf7739522427e33c2ed3b66201d58"
+                    "reference": "d0256ccfcb0f7fd08b5dfb8b1b179e4d90284915"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/571f52be797cf7739522427e33c2ed3b66201d58",
-                    "reference": "571f52be797cf7739522427e33c2ed3b66201d58",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/d0256ccfcb0f7fd08b5dfb8b1b179e4d90284915",
+                    "reference": "d0256ccfcb0f7fd08b5dfb8b1b179e4d90284915",
                     "shasum": ""
                 },
                 "require": {
@@ -3392,7 +3392,55 @@
                 "require-dev": {
                     "phpunit/phpunit": "^12.0"
                 },
-                "time": "2025-04-01T19:00:47+00:00",
+                "time": "2025-04-01T20:32:59+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\Test\\": "test"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/2.0.1",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
+            },
+            "dev-master": {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "d0256ccfcb0f7fd08b5dfb8b1b179e4d90284915"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/d0256ccfcb0f7fd08b5dfb8b1b179e4d90284915",
+                    "reference": "d0256ccfcb0f7fd08b5dfb8b1b179e4d90284915",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "php": ">=8.4 <9"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^12.0"
+                },
+                "time": "2025-04-01T20:32:59+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -3415,7 +3463,7 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/2.0.0",
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/2.0.1",
                     "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
                 }
             },
