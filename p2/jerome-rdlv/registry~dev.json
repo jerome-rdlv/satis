@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/registry.git",
-                    "reference": "141bb5f5c4e52c18c7d8f54b13c87efabcf9f354"
+                    "reference": "76444aa3464498a50996f7f70162af1804fa5998"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/registry/zipball/141bb5f5c4e52c18c7d8f54b13c87efabcf9f354",
-                    "reference": "141bb5f5c4e52c18c7d8f54b13c87efabcf9f354",
+                    "url": "https://api.github.com/repos/jerome-rdlv/registry/zipball/76444aa3464498a50996f7f70162af1804fa5998",
+                    "reference": "76444aa3464498a50996f7f70162af1804fa5998",
                     "shasum": ""
                 },
-                "time": "2025-01-16T19:59:40+00:00",
+                "time": "2025-04-02T08:58:55+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -34,7 +34,7 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/registry/tree/master",
+                    "source": "https://github.com/jerome-rdlv/registry/tree/1.0.0",
                     "issues": "https://github.com/jerome-rdlv/registry/issues"
                 }
             }
