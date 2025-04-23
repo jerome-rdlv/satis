@@ -8,15 +8,16 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
-                    "reference": "b35255c9fdf671e86c4e8f1ef3dff26e2df3de2c"
+                    "reference": "6d44ea1d5bdbaf7c94965bf2d6b851a78a15ad7b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/b35255c9fdf671e86c4e8f1ef3dff26e2df3de2c",
-                    "reference": "b35255c9fdf671e86c4e8f1ef3dff26e2df3de2c",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/6d44ea1d5bdbaf7c94965bf2d6b851a78a15ad7b",
+                    "reference": "6d44ea1d5bdbaf7c94965bf2d6b851a78a15ad7b",
                     "shasum": ""
                 },
                 "require": {
+                    "composer/installers": "^1.0 || ^2.0",
                     "php": ">=7.4"
                 },
                 "require-dev": {
@@ -25,7 +26,7 @@
                     "phpstan/phpstan": "^1.6",
                     "phpunit/phpunit": "^8.0"
                 },
-                "time": "2024-06-03T12:39:40+00:00",
+                "time": "2025-04-23T10:10:38+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -52,7 +53,7 @@
                 ],
                 "description": "Add cache busting fragment to assets URL, in query string or path.",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/master",
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/0.2.1-2",
                     "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
                 }
             }

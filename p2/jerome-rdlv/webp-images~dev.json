@@ -8,19 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/webp-images.git",
-                    "reference": "81a3745b53fc2cf564d5210f3bd92ca2148e869a"
+                    "reference": "3d0813c393947d4f9b7cb0bc1bd6209939e2a598"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/81a3745b53fc2cf564d5210f3bd92ca2148e869a",
-                    "reference": "81a3745b53fc2cf564d5210f3bd92ca2148e869a",
+                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/3d0813c393947d4f9b7cb0bc1bd6209939e2a598",
+                    "reference": "3d0813c393947d4f9b7cb0bc1bd6209939e2a598",
                     "shasum": ""
                 },
                 "require": {
+                    "composer/installers": "^1.0 || ^2.0",
                     "php": ">=7.4",
                     "symfony/finder": "^5.0|^6.0|^7.0"
                 },
-                "time": "2025-02-28T11:46:04+00:00",
+                "time": "2025-04-23T10:00:24+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -39,7 +40,7 @@
                 ],
                 "description": "Add a cron job that creates WebP versions of all uploaded images",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/webp-images/tree/master",
+                    "source": "https://github.com/jerome-rdlv/webp-images/tree/2.0",
                     "issues": "https://github.com/jerome-rdlv/webp-images/issues"
                 }
             },
@@ -80,7 +81,7 @@
                 ],
                 "description": "Add a cron job that creates WebP versions of all uploaded images",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/webp-images/tree/php7",
+                    "source": "https://github.com/jerome-rdlv/webp-images/tree/1.0",
                     "issues": "https://github.com/jerome-rdlv/webp-images/issues"
                 }
             }

@@ -1,5 +1,43 @@
 {
     "packages": {
-        "jerome-rdlv/cf7-tac-recaptcha": []
+        "jerome-rdlv/cf7-tac-recaptcha": [
+            {
+                "name": "jerome-rdlv/cf7-tac-recaptcha",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cf7-tac-recaptcha.git",
+                    "reference": "b635192b3b1504cbe9b7e9e35db3fdd2e85df5d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cf7-tac-recaptcha/zipball/b635192b3b1504cbe9b7e9e35db3fdd2e85df5d9",
+                    "reference": "b635192b3b1504cbe9b7e9e35db3fdd2e85df5d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "^1.0 || ^2.0",
+                    "php": ">=5.4"
+                },
+                "time": "2025-04-23T10:12:52+00:00",
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "homepage": "https://rue-de-la-vieille.fr/"
+                    }
+                ],
+                "description": "WordPress plugin to handle ContactForm7 reCaptcha feature with TarteAuCitron",
+                "homepage": "https://github.com/jerome-rdlv/cf7-tac-recpatcha",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cf7-tac-recaptcha/tree/1.0",
+                    "issues": "https://github.com/jerome-rdlv/cf7-tac-recaptcha/issues"
+                }
+            }
+        ]
     }
 }
