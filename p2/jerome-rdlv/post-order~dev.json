@@ -8,15 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/post-order.git",
-                    "reference": "546b8ecd85c1448c6e8d839025ccd470a3f54e67"
+                    "reference": "8f101f2377bb9cd64a1301dbd15cdebc00a684c9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/546b8ecd85c1448c6e8d839025ccd470a3f54e67",
-                    "reference": "546b8ecd85c1448c6e8d839025ccd470a3f54e67",
+                    "url": "https://api.github.com/repos/jerome-rdlv/post-order/zipball/8f101f2377bb9cd64a1301dbd15cdebc00a684c9",
+                    "reference": "8f101f2377bb9cd64a1301dbd15cdebc00a684c9",
                     "shasum": ""
                 },
-                "time": "2025-03-14T09:14:14+00:00",
+                "require": {
+                    "composer/installers": "^1.0 || ^2.0"
+                },
+                "time": "2025-04-23T09:52:21+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
@@ -31,7 +34,7 @@
                 "description": "WordPress plugin to allow to set posts and terms order by drag and drop",
                 "homepage": "https://github.com/jerome-rdlv/post-order",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/post-order/tree/master",
+                    "source": "https://github.com/jerome-rdlv/post-order/tree/1.1",
                     "issues": "https://github.com/jerome-rdlv/post-order/issues"
                 }
             }
