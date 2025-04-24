@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/allow-svg.git",
-                    "reference": "27a5a5bb3205ac352b4081118d213139bddc4c26"
+                    "reference": "7031d4147c71961a5285d9469eee2ca31ce50c81"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/allow-svg/zipball/27a5a5bb3205ac352b4081118d213139bddc4c26",
-                    "reference": "27a5a5bb3205ac352b4081118d213139bddc4c26",
+                    "url": "https://api.github.com/repos/jerome-rdlv/allow-svg/zipball/7031d4147c71961a5285d9469eee2ca31ce50c81",
+                    "reference": "7031d4147c71961a5285d9469eee2ca31ce50c81",
                     "shasum": ""
                 },
                 "require": {
@@ -21,7 +21,7 @@
                     "ext-simplexml": "*",
                     "php": ">=5.4"
                 },
-                "time": "2025-04-23T10:08:13+00:00",
+                "time": "2025-04-23T11:31:24+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
@@ -36,7 +36,7 @@
                 "description": "Allow to upload svg files in media manager.",
                 "homepage": "https://gitlab.rue-de-la-vieille.fr/jerome/allow-svg",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/allow-svg/tree/1.0",
+                    "source": "https://github.com/jerome-rdlv/allow-svg/tree/1.0.0-1",
                     "issues": "https://github.com/jerome-rdlv/allow-svg/issues"
                 }
             }
