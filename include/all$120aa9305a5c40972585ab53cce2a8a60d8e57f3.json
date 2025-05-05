@@ -3850,6 +3850,41 @@
             }
         },
         "jerome-rdlv/outgoing-ip": {
+            "0.1": {
+                "name": "jerome-rdlv/outgoing-ip",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/outgoing-ip.git",
+                    "reference": "e473d0275f5ece08eb4105fe90c135a9d309df51"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/outgoing-ip/zipball/e473d0275f5ece08eb4105fe90c135a9d309df51",
+                    "reference": "e473d0275f5ece08eb4105fe90c135a9d309df51",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0"
+                },
+                "time": "2023-04-24T09:29:41+00:00",
+                "type": "wordpress-muplugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Display outgoing IP of current website",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/outgoing-ip/tree/0.1",
+                    "issues": "https://github.com/jerome-rdlv/outgoing-ip/issues"
+                }
+            },
             "dev-master": {
                 "name": "jerome-rdlv/outgoing-ip",
                 "version": "dev-master",
@@ -3882,7 +3917,7 @@
                 ],
                 "description": "Display outgoing IP of current website",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/outgoing-ip/tree/master",
+                    "source": "https://github.com/jerome-rdlv/outgoing-ip/tree/0.1",
                     "issues": "https://github.com/jerome-rdlv/outgoing-ip/issues"
                 }
             }

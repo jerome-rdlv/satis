@@ -33,7 +33,7 @@
                 ],
                 "description": "Display outgoing IP of current website",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/outgoing-ip/tree/master",
+                    "source": "https://github.com/jerome-rdlv/outgoing-ip/tree/0.1",
                     "issues": "https://github.com/jerome-rdlv/outgoing-ip/issues"
                 }
             }
