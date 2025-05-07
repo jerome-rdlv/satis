@@ -2,7 +2,6 @@
     "name": "jerome-rdlv/packages",
     "homepage": "https://jerome-rdlv.github.io/satis/",
     "repositories": [
-        { "type": "vcs", "url": "git@github.com:jerome-rdlv/advanced-custom-fields-pro.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/allow-svg.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/boond-manager.git" },
         { "type": "vcs", "url": "git@github.com:jerome-rdlv/cachebust-assets.git" },
