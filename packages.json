@@ -1,14 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$120aa9305a5c40972585ab53cce2a8a60d8e57f3.json": {
-            "sha1": "120aa9305a5c40972585ab53cce2a8a60d8e57f3"
+        "include/all$6041c48ed3f656bc9b9f3be46f890f53367470ab.json": {
+            "sha1": "6041c48ed3f656bc9b9f3be46f890f53367470ab"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
         "inflexyon/payment",
-        "jerome-rdlv/advanced-custom-fields-pro",
         "jerome-rdlv/allow-svg",
         "jerome-rdlv/boond-manager",
         "jerome-rdlv/cachebust-assets",
