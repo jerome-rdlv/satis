@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b0067c3c36539a7631ef8ecdce6b131a988b38a5.json": {
-            "sha1": "b0067c3c36539a7631ef8ecdce6b131a988b38a5"
+        "include/all$65bcbd24f27d0b4b01652b241125642d2ca7807c.json": {
+            "sha1": "65bcbd24f27d0b4b01652b241125642d2ca7807c"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
+        "bea/acf-options-for-polylang",
         "inflexyon/payment",
         "jerome-rdlv/allow-svg",
         "jerome-rdlv/boond-manager",
