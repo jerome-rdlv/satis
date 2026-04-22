@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/email-smtp.git",
-                    "reference": "3f91c8c738f926f18d0948cf5846305048d72f7c"
+                    "reference": "85b3b731d53a23b5bdbc2be0d0c3558944d60084"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/3f91c8c738f926f18d0948cf5846305048d72f7c",
-                    "reference": "3f91c8c738f926f18d0948cf5846305048d72f7c",
+                    "url": "https://api.github.com/repos/jerome-rdlv/email-smtp/zipball/85b3b731d53a23b5bdbc2be0d0c3558944d60084",
+                    "reference": "85b3b731d53a23b5bdbc2be0d0c3558944d60084",
                     "shasum": ""
                 },
                 "require": {
@@ -21,7 +21,7 @@
                     "oscarotero/env": "^2.0",
                     "php": ">=7.0"
                 },
-                "time": "2025-04-23T09:58:09+00:00",
+                "time": "2026-04-22T09:08:09+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -40,7 +40,7 @@
                 ],
                 "description": "Send emails using wp-config.php SMTP settings",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/email-smtp/tree/1.0",
+                    "source": "https://github.com/jerome-rdlv/email-smtp/tree/1.0.1",
                     "issues": "https://github.com/jerome-rdlv/email-smtp/issues"
                 }
             }
