@@ -2385,12 +2385,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/webp-images.git",
-                    "reference": "3d0813c393947d4f9b7cb0bc1bd6209939e2a598"
+                    "reference": "e937f87f156cab764d50a80bbe72e96935e5199e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/3d0813c393947d4f9b7cb0bc1bd6209939e2a598",
-                    "reference": "3d0813c393947d4f9b7cb0bc1bd6209939e2a598",
+                    "url": "https://api.github.com/repos/jerome-rdlv/webp-images/zipball/e937f87f156cab764d50a80bbe72e96935e5199e",
+                    "reference": "e937f87f156cab764d50a80bbe72e96935e5199e",
                     "shasum": ""
                 },
                 "require": {
@@ -2398,7 +2398,7 @@
                     "php": ">=7.4",
                     "symfony/finder": "^5.0|^6.0|^7.0"
                 },
-                "time": "2025-04-23T10:00:24+00:00",
+                "time": "2026-06-08T09:01:56+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -2417,7 +2417,7 @@
                 ],
                 "description": "Add a cron job that creates WebP versions of all uploaded images",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/webp-images/tree/2.0",
+                    "source": "https://github.com/jerome-rdlv/webp-images/tree/master",
                     "issues": "https://github.com/jerome-rdlv/webp-images/issues"
                 }
             },
