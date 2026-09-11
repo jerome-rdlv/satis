@@ -90,6 +90,50 @@
                     "source": "https://github.com/jerome-rdlv/html-manipulation/tree/php7",
                     "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
                 }
+            },
+            {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "dev-php8",
+                "version_normalized": "dev-php8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "68c9e7c6bc2b34d2331a42a1cba84be7525dd05c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/68c9e7c6bc2b34d2331a42a1cba84be7525dd05c",
+                    "reference": "68c9e7c6bc2b34d2331a42a1cba84be7525dd05c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-libxml": "*",
+                    "php": ">=8.0",
+                    "symfony/css-selector": "^3.4|^6.4"
+                },
+                "suggest": {
+                    "masterminds/html5": "Allows correct HTML5 (and SVG) parsing, but slower than native parser."
+                },
+                "time": "2026-09-11T18:46:11+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/1.1.2",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
             }
         ]
     }

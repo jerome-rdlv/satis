@@ -1622,6 +1622,94 @@
                     "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
                 }
             },
+            "1.1.1": {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "648950a5e8c0f43fe69265f547f0a1d3ea474a25"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/648950a5e8c0f43fe69265f547f0a1d3ea474a25",
+                    "reference": "648950a5e8c0f43fe69265f547f0a1d3ea474a25",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-libxml": "*",
+                    "php": ">=8.0",
+                    "symfony/css-selector": "^3.4|^6.4"
+                },
+                "suggest": {
+                    "masterminds/html5": "Allows correct HTML5 (and SVG) parsing, but slower than native parser."
+                },
+                "time": "2026-09-11T18:08:42+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/1.1.1",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
+            },
+            "1.1.2": {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "68c9e7c6bc2b34d2331a42a1cba84be7525dd05c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/68c9e7c6bc2b34d2331a42a1cba84be7525dd05c",
+                    "reference": "68c9e7c6bc2b34d2331a42a1cba84be7525dd05c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-libxml": "*",
+                    "php": ">=8.0",
+                    "symfony/css-selector": "^3.4|^6.4"
+                },
+                "suggest": {
+                    "masterminds/html5": "Allows correct HTML5 (and SVG) parsing, but slower than native parser."
+                },
+                "time": "2026-09-11T18:46:11+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/1.1.2",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
+            },
             "2.0.0": {
                 "name": "jerome-rdlv/html-manipulation",
                 "version": "2.0.0",
@@ -1853,6 +1941,50 @@
                 ],
                 "support": {
                     "source": "https://github.com/jerome-rdlv/html-manipulation/tree/php7",
+                    "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
+                }
+            },
+            "dev-php8": {
+                "name": "jerome-rdlv/html-manipulation",
+                "version": "dev-php8",
+                "version_normalized": "dev-php8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/html-manipulation.git",
+                    "reference": "68c9e7c6bc2b34d2331a42a1cba84be7525dd05c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/html-manipulation/zipball/68c9e7c6bc2b34d2331a42a1cba84be7525dd05c",
+                    "reference": "68c9e7c6bc2b34d2331a42a1cba84be7525dd05c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-libxml": "*",
+                    "php": ">=8.0",
+                    "symfony/css-selector": "^3.4|^6.4"
+                },
+                "suggest": {
+                    "masterminds/html5": "Allows correct HTML5 (and SVG) parsing, but slower than native parser."
+                },
+                "time": "2026-09-11T18:46:11+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\HtmlManipulation\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/html-manipulation/tree/1.1.2",
                     "issues": "https://github.com/jerome-rdlv/html-manipulation/issues"
                 }
             }
