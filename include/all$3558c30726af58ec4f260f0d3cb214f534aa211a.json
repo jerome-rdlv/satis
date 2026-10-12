@@ -1144,10 +1144,10 @@
                     "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
                 }
             },
-            "dev-master": {
+            "1.2.2": {
                 "name": "jerome-rdlv/cachebust-assets",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
@@ -1172,6 +1172,120 @@
                     "szepeviktor/phpstan-wordpress": "^2.0"
                 },
                 "time": "2026-09-25T22:45:25+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "scripts": {
+                    "test": [
+                        "@php vendor/bin/phpunit --configuration phpunit.xml"
+                    ],
+                    "phpstan": [
+                        "@php vendor/bin/phpstan"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL, in query string or path.",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/1.2.2",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "1.2.3": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "12e15ddd08a36161420aad2a74e7a3311e51fb6f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/12e15ddd08a36161420aad2a74e7a3311e51fb6f",
+                    "reference": "12e15ddd08a36161420aad2a74e7a3311e51fb6f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-uri": "*",
+                    "php": ">=8.5"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "oscarotero/env": "^2.1",
+                    "phpstan/extension-installer": "^1.4",
+                    "phpstan/phpstan": "^2.2",
+                    "phpunit/phpunit": "^9.0",
+                    "szepeviktor/phpstan-wordpress": "^2.0"
+                },
+                "time": "2026-10-12T13:13:57+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rdlv\\WordPress\\CacheBustAssets\\": "src/"
+                    }
+                },
+                "scripts": {
+                    "test": [
+                        "@php vendor/bin/phpunit --configuration phpunit.xml"
+                    ],
+                    "phpstan": [
+                        "@php vendor/bin/phpstan"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Jérôme Mulsant",
+                        "email": "jerome@rue-de-la-vieille.fr"
+                    }
+                ],
+                "description": "Add cache busting fragment to assets URL, in query string or path.",
+                "support": {
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/1.2.3",
+                    "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
+                }
+            },
+            "dev-main": {
+                "name": "jerome-rdlv/cachebust-assets",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
+                    "reference": "12e15ddd08a36161420aad2a74e7a3311e51fb6f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/12e15ddd08a36161420aad2a74e7a3311e51fb6f",
+                    "reference": "12e15ddd08a36161420aad2a74e7a3311e51fb6f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-uri": "*",
+                    "php": ">=8.5"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1.6",
+                    "oscarotero/env": "^2.1",
+                    "phpstan/extension-installer": "^1.4",
+                    "phpstan/phpstan": "^2.2",
+                    "phpunit/phpunit": "^9.0",
+                    "szepeviktor/phpstan-wordpress": "^2.0"
+                },
+                "time": "2026-10-12T13:13:57+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -1198,7 +1312,7 @@
                 ],
                 "description": "Add cache busting fragment to assets URL, in query string or path.",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/master",
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/1.2.3",
                     "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
                 }
             },

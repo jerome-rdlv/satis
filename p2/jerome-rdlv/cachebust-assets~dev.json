@@ -3,17 +3,17 @@
         "jerome-rdlv/cachebust-assets": [
             {
                 "name": "jerome-rdlv/cachebust-assets",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jerome-rdlv/cachebust-assets.git",
-                    "reference": "d99d04110a9ea5fbd5cd560a750c3d3b0ee126d8"
+                    "reference": "12e15ddd08a36161420aad2a74e7a3311e51fb6f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/d99d04110a9ea5fbd5cd560a750c3d3b0ee126d8",
-                    "reference": "d99d04110a9ea5fbd5cd560a750c3d3b0ee126d8",
+                    "url": "https://api.github.com/repos/jerome-rdlv/cachebust-assets/zipball/12e15ddd08a36161420aad2a74e7a3311e51fb6f",
+                    "reference": "12e15ddd08a36161420aad2a74e7a3311e51fb6f",
                     "shasum": ""
                 },
                 "require": {
@@ -28,7 +28,7 @@
                     "phpunit/phpunit": "^9.0",
                     "szepeviktor/phpstan-wordpress": "^2.0"
                 },
-                "time": "2026-09-25T22:45:25+00:00",
+                "time": "2026-10-12T13:13:57+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
@@ -55,7 +55,7 @@
                 ],
                 "description": "Add cache busting fragment to assets URL, in query string or path.",
                 "support": {
-                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/master",
+                    "source": "https://github.com/jerome-rdlv/cachebust-assets/tree/1.2.3",
                     "issues": "https://github.com/jerome-rdlv/cachebust-assets/issues"
                 }
             },
